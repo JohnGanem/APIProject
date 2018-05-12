@@ -10,7 +10,7 @@ function rechercheSite(urlSite) {
     if (error) throw error;
     var dbo = db.db('stiff');
     var query = {
-      URL: urlSite + "/"
+      URL: urlSite
     };
     dbo.collection('sites').find(query).toArray(function(error, results) {
       if (error) throw error;
@@ -37,7 +37,7 @@ function showRankUrl() {
         console.log(
           'URL : ' + obj.URL +
           " Rank: " + obj.Rank+
-          'technologie: ' +obj.Technologie
+          ' technologie: ' +obj.Technologie
         );
         db.close();
       });
@@ -61,9 +61,22 @@ function insertSite(rank, url, lrd, el, mozR, mozT,technoParam) {
   });
 }
 
-function updateSite(site,technoParam) {}
+function updateSite(site) {}
 
-function deleteSite(site) {}
+function deleteSite(site) {
+  MongoClient.connect(host, {
+    useNewUrlParser: true
+  }, function(error, db) {
+    if (error) throw error;
+    var dbo = db.db('stiff');
+    query= { URL : site };
+    dbo.collection("sites").deleteOne(query,function(err,obj){
+      if(err) throw err;
+      console.log('1 document deleted');
+      db.close();
+    });
+  });
+}
 
 function addTechnoSite(site, technoParam) {
   MongoClient.connect(host, {
@@ -71,25 +84,20 @@ function addTechnoSite(site, technoParam) {
   }, function(error, db) {
     if (error) throw error;
     var dbo = db.db('stiff');
-    SiteSlash = site;
+
     dbo.collection("sites").update(
-      {
-        URL: SiteSlash
-      },
-      {
-        $set: {
-          Technologie: technoParam
-        }
-      }
-    );
-      console.log('ok');
-    });
+      {URL : site},
+      {$set : {Technologie : technoParam}}
+    )
+  });
 }
 //récupération de la donnée via formulaire a la place de url en brute
 //var url = "facebook.com";
 //appel fonction test
-// showRankUrl();
-// rechercheSite(url);
-//insertSite(501,'test2.com/',300,300,2,2,'test');
-var site = 'test2.com/';
-updateSite(site,'linux');
+//showRankUrl();
+//rechercheSite(url);
+//insertSite(501,'test2.com',300,300,2,2,'test');
+//var site = 'test2.com';
+//updateSite(site,'linux');
+//addTechnoSite(site,"linux");
+//deleteSite(site);
