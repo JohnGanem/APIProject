@@ -2,4 +2,5 @@ Install mongodb sans user pour le moment (db.createUser)
 Téléchargement du fichier csv. (joint avec le fichier databaseCommand sous le nom top500.domains.04.18.csv)
 Utilisation de 3t robo pour avoir une console graphique si besoin 
 Commande d'import de la bdd sans collection (rename après) : 
-mongoimport --db stiff --type csv --headerline --file "chemindufichierjusqualaracine/top500.domains.04.18.csv"
+mongoimport --db stiff --type csv --headerline --file "chemindufichierjusqualaracine/sites.csv"
+
