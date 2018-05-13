@@ -61,7 +61,19 @@ function insertSite(rank, url, lrd, el, mozR, mozT,technoParam) {
   });
 }
 
-function updateSite(site) {}
+function updateSite(site,rank,lrd,el,mozR ,mozT,technoParam) {
+  MongoClient.connect(host, {
+    useNewUrlParser: true
+  }, function(error, db) {
+    if (error) throw error;
+    var dbo = db.db('stiff');
+
+    dbo.collection("sites").update(
+      {URL : site},
+      {$set : {Rank: rank , LinkingRootDomains: lrd , ExternalLinks: el , MozRank: mozR , MozTrust: mozT, Technologie: technoParam}}
+    )
+  });
+}
 
 function deleteSite(site) {
   MongoClient.connect(host, {
