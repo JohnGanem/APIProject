@@ -112,8 +112,8 @@ module.exports = {
 //var url = "facebook.com";
 //appel fonction test
 //showRankUrl();
-//rechercheSite(url);
-//insertSite(501,'test2.com',300,300,2,2,'test');
+ // rechercheSite(url);
+//insertSite(501,'test2.com',null,null,null,null,'test');
 //var site = 'test2.com';
 //updateSite(site,'linux');
 //addTechnoSite(site,"linux");
