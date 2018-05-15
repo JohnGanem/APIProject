@@ -8,10 +8,10 @@ router.get('/category/:inputText', function (req, res) {
 })
 router.get('/site/:inputText', function (req, res, next) {
     let retourBDD = BDD.rechercheSite(req.params.inputText);
-    if (retourBDD !== "") {
-        res.send(retourBDD);
+    if (retourBDD != "") {
+        res.send("Retour : " + retourBDD);
     } else {
-        res.send("{}");
+        res.send("Retour : {}");
     }
 });
 
