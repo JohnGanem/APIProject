@@ -15,11 +15,13 @@ function rechercheSite(urlSite) {
     dbo.collection('sites').find(query).toArray(function(error, results) {
       if (error) throw error;
       results.forEach(function(obj, i) {
-        console.log(
-          'URL : ' + obj.URL +
-          " Rank: " + obj.Rank
-        );
+        // console.log(
+        //   'URL : ' + obj.URL +
+        //   " Rank: " + obj.Rank
+        // );
+        console.log(JSON.stringify(results));
         db.close();
+
       });
     });
   });
@@ -34,18 +36,19 @@ function showRankUrl() {
     dbo.collection('sites').find().toArray(function(error, results) {
       if (error) throw error;
       results.forEach(function(obj, i) {
-        console.log(
-          'URL : ' + obj.URL +
-          " Rank: " + obj.Rank+
-          ' technologie: ' +obj.Technologie
-        );
+        // console.log(
+        //   'URL : ' + obj.URL +
+        //   " Rank: " + obj.Rank+
+        //   ' technologie: ' +obj.Technologie
+        // );
+        console.log(JSON.stringify(results));
         db.close();
       });
     });
   });
 }
 
-function insertSite(rank, url, lrd, el, mozR, mozT,technoParam) {
+function insertSite(rank, url, lrd = "", el = "", mozR = "", mozT = "",technoParam) {
   MongoClient.connect(host, {
     useNewUrlParser: true
   }, function(error, db) {
@@ -107,8 +110,8 @@ function addTechnoSite(site, technoParam) {
 //var url = "facebook.com";
 //appel fonction test
 //showRankUrl();
-//rechercheSite(url);
-//insertSite(501,'test2.com',300,300,2,2,'test');
+ // rechercheSite(url);
+//insertSite(501,'test2.com',null,null,null,null,'test');
 //var site = 'test2.com';
 //updateSite(site,'linux');
 //addTechnoSite(site,"linux");
