@@ -14,17 +14,20 @@ module.exports = {
             var query = {
                 URL: urlSite
             };
+            var retour = "{";
             dbo.collection('sites').find(query).toArray(function (error, results) {
                 if (error)
                     throw error;
                 results.forEach(function (obj, i) {
-                    console.log(
-                            'URL : ' + obj.URL +
-                            " Rank: " + obj.Rank
-                            );
-                    db.close();
+                    retour += (
+                            '["URL" : ' + obj.URL +
+                            ', "Rank": ' + obj.Rank +
+                            '],'
+                            )
                 });
             });
+            db.close();
+            return retour.substr(0, -1) + "}";
         });
     },
     //affichage du rank et de l'url
@@ -112,7 +115,7 @@ module.exports = {
 //var url = "facebook.com";
 //appel fonction test
 //showRankUrl();
- // rechercheSite(url);
+    // rechercheSite(url);
 //insertSite(501,'test2.com',null,null,null,null,'test');
 //var site = 'test2.com';
 //updateSite(site,'linux');
