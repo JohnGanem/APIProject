@@ -1,10 +1,8 @@
-var MongoClient = require("mongodb").MongoClient;
-var host = "mongodb://localhost:27017";
-module.exports = {
 
-    connexionMongo: function () {},
+module.exports = {
+    //connexionMongo: function () {},
     //affichage pour un site défini
-    rechercheSite: function (urlSite) {
+    rechercheSite: function (MongoClient,host,urlSite) {
         MongoClient.connect(host, {
             useNewUrlParser: true
         }, function (error, db) {
@@ -26,9 +24,9 @@ module.exports = {
                             )
                 });
             });
-            db.close();
             return retour.substr(0, -1) + "}";
         });
+        db.close();
     },
     //affichage du rank et de l'url
     showRankUrl: function () {
@@ -115,7 +113,7 @@ module.exports = {
 //var url = "facebook.com";
 //appel fonction test
 //showRankUrl();
-    // rechercheSite(url);
+//rechercheSite(url);
 //insertSite(501,'test2.com',null,null,null,null,'test');
 //var site = 'test2.com';
 //updateSite(site,'linux');
