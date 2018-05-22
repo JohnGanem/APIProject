@@ -6,9 +6,9 @@ var host = "mongodb://localhost:27017";
 
 router.get('/category/:inputText', function (req, res) {
     res.send('');
-})
+});
 router.get('/site/:inputText', function (req, res, next) {
-    let retourBDD = BDD.rechercheSite(MongoClient,host,site);
+    let retourBDD = BDD.rechercheSite(MongoClient, host, req.params.inputText);
     console.log(retourBDD);
     if (typeof retourBDD != undefined || retourBDD != "") {
         res.send("Retour : " + retourBDD);
@@ -24,6 +24,6 @@ router.get('/:inputText', function (req, res, next) {
 });
 router.get('/', function (req, res) {
     res.send('Get a random website');
-})
+});
 
 module.exports = router;
