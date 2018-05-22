@@ -1,0 +1,4010 @@
+{
+   "1": {
+      "FIELD2": "facebook.com",
+      "FIELD3": "15244372",
+      "FIELD4": "5410611719",
+      "FIELD5": "9.79",
+      "FIELD6": "9.46",
+      "FIELD7": "vide"
+   },
+   "2": {
+      "FIELD2": "twitter.com",
+      "FIELD3": "10423928",
+      "FIELD4": "7957076252",
+      "FIELD5": "9.62",
+      "FIELD6": "9.39",
+      "FIELD7": "vide"
+   },
+   "3": {
+      "FIELD2": "google.com",
+      "FIELD3": "8820614",
+      "FIELD4": "3586870758",
+      "FIELD5": "9.51",
+      "FIELD6": "9.34",
+      "FIELD7": "vide"
+   },
+   "4": {
+      "FIELD2": "youtube.com",
+      "FIELD3": "5680524",
+      "FIELD4": "2113109480",
+      "FIELD5": "9.33",
+      "FIELD6": "9.18",
+      "FIELD7": "vide"
+   },
+   "5": {
+      "FIELD2": "instagram.com",
+      "FIELD3": "4003906",
+      "FIELD4": "2007019279",
+      "FIELD5": "9.22",
+      "FIELD6": "8.98",
+      "FIELD7": "vide"
+   },
+   "6": {
+      "FIELD2": "linkedin.com",
+      "FIELD3": "3816882",
+      "FIELD4": "1079449486",
+      "FIELD5": "9.18",
+      "FIELD6": "9.04",
+      "FIELD7": "vide"
+   },
+   "7": {
+      "FIELD2": "wordpress.org",
+      "FIELD3": "3747817",
+      "FIELD4": "323363772",
+      "FIELD5": "9.14",
+      "FIELD6": "8.81",
+      "FIELD7": "vide"
+   },
+   "8": {
+      "FIELD2": "pinterest.com",
+      "FIELD3": "2431804",
+      "FIELD4": "1008936650",
+      "FIELD5": "8.89",
+      "FIELD6": "8.68",
+      "FIELD7": "vide"
+   },
+   "9": {
+      "FIELD2": "wikipedia.org",
+      "FIELD3": "2121768",
+      "FIELD4": "266454144",
+      "FIELD5": "8.80",
+      "FIELD6": "8.66",
+      "FIELD7": "vide"
+   },
+   "10": {
+      "FIELD2": "wordpress.com",
+      "FIELD3": "1738096",
+      "FIELD4": "340049712",
+      "FIELD5": "8.70",
+      "FIELD6": "8.63",
+      "FIELD7": "vide"
+   },
+   "11": {
+      "FIELD2": "blogspot.com",
+      "FIELD3": "1561480",
+      "FIELD4": "835661438",
+      "FIELD5": "8.52",
+      "FIELD6": "8.45",
+      "FIELD7": "vide"
+   },
+   "12": {
+      "FIELD2": "apple.com",
+      "FIELD3": "1383176",
+      "FIELD4": "374475285",
+      "FIELD5": "9.13",
+      "FIELD6": "9.06",
+      "FIELD7": "vide"
+   },
+   "13": {
+      "FIELD2": "adobe.com",
+      "FIELD3": "1318721",
+      "FIELD4": "100901352",
+      "FIELD5": "8.96",
+      "FIELD6": "9.07",
+      "FIELD7": "vide"
+   },
+   "14": {
+      "FIELD2": "tumblr.com",
+      "FIELD3": "1188534",
+      "FIELD4": "1102781375",
+      "FIELD5": "8.52",
+      "FIELD6": "8.37",
+      "FIELD7": "vide"
+   },
+   "15": {
+      "FIELD2": "youtu.be",
+      "FIELD3": "1153922",
+      "FIELD4": "86828213",
+      "FIELD5": "8.62",
+      "FIELD6": "8.59",
+      "FIELD7": "vide"
+   },
+   "16": {
+      "FIELD2": "amazon.com",
+      "FIELD3": "1115717",
+      "FIELD4": "277826388",
+      "FIELD5": "8.55",
+      "FIELD6": "8.54",
+      "FIELD7": "vide"
+   },
+   "17": {
+      "FIELD2": "goo.gl",
+      "FIELD3": "1090989",
+      "FIELD4": "227896228",
+      "FIELD5": "8.67",
+      "FIELD6": "8.51",
+      "FIELD7": "vide"
+   },
+   "18": {
+      "FIELD2": "vimeo.com",
+      "FIELD3": "1017763",
+      "FIELD4": "97225521",
+      "FIELD5": "8.59",
+      "FIELD6": "8.51",
+      "FIELD7": "vide"
+   },
+   "19": {
+      "FIELD2": "microsoft.com",
+      "FIELD3": "865018",
+      "FIELD4": "181483118",
+      "FIELD5": "8.88",
+      "FIELD6": "8.73",
+      "FIELD7": "vide"
+   },
+   "20": {
+      "FIELD2": "flickr.com",
+      "FIELD3": "861779",
+      "FIELD4": "366345010",
+      "FIELD5": "8.44",
+      "FIELD6": "8.50",
+      "FIELD7": "vide"
+   },
+   "21": {
+      "FIELD2": "yahoo.com",
+      "FIELD3": "828470",
+      "FIELD4": "130380721",
+      "FIELD5": "8.40",
+      "FIELD6": "8.41",
+      "FIELD7": "vide"
+   },
+   "22": {
+      "FIELD2": "bit.ly",
+      "FIELD3": "734923",
+      "FIELD4": "170725280",
+      "FIELD5": "8.50",
+      "FIELD6": "8.46",
+      "FIELD7": "vide"
+   },
+   "23": {
+      "FIELD2": "qq.com",
+      "FIELD3": "677195",
+      "FIELD4": "212194257",
+      "FIELD5": "8.38",
+      "FIELD6": "7.56",
+      "FIELD7": "vide"
+   },
+   "24": {
+      "FIELD2": "godaddy.com",
+      "FIELD3": "666606",
+      "FIELD4": "7524939",
+      "FIELD5": "8.65",
+      "FIELD6": "8.07",
+      "FIELD7": "vide"
+   },
+   "25": {
+      "FIELD2": "vk.com",
+      "FIELD3": "631890",
+      "FIELD4": "198792027",
+      "FIELD5": "8.24",
+      "FIELD6": "7.68",
+      "FIELD7": "vide"
+   },
+   "26": {
+      "FIELD2": "reddit.com",
+      "FIELD3": "579021",
+      "FIELD4": "125868665",
+      "FIELD5": "8.04",
+      "FIELD6": "7.98",
+      "FIELD7": "vide"
+   },
+   "27": {
+      "FIELD2": "buydomains.com",
+      "FIELD3": "502376",
+      "FIELD4": "591525",
+      "FIELD5": "8.57",
+      "FIELD6": "7.69",
+      "FIELD7": "vide"
+   },
+   "28": {
+      "FIELD2": "w3.org",
+      "FIELD3": "480313",
+      "FIELD4": "251086548",
+      "FIELD5": "8.32",
+      "FIELD6": "8.79",
+      "FIELD7": "vide"
+   },
+   "29": {
+      "FIELD2": "nytimes.com",
+      "FIELD3": "478333",
+      "FIELD4": "43569120",
+      "FIELD5": "8.16",
+      "FIELD6": "8.85",
+      "FIELD7": "vide"
+   },
+   "30": {
+      "FIELD2": "t.co",
+      "FIELD3": "462279",
+      "FIELD4": "950144627",
+      "FIELD5": "8.24",
+      "FIELD6": "8.23",
+      "FIELD7": "vide"
+   },
+   "31": {
+      "FIELD2": "europa.eu",
+      "FIELD3": "440471",
+      "FIELD4": "77374662",
+      "FIELD5": "8.40",
+      "FIELD6": "8.87",
+      "FIELD7": "vide"
+   },
+   "32": {
+      "FIELD2": "baidu.com",
+      "FIELD3": "427641",
+      "FIELD4": "257015139",
+      "FIELD5": "8.25",
+      "FIELD6": "7.40",
+      "FIELD7": "vide"
+   },
+   "33": {
+      "FIELD2": "statcounter.com",
+      "FIELD3": "406991",
+      "FIELD4": "109102538",
+      "FIELD5": "8.30",
+      "FIELD6": "8.07",
+      "FIELD7": "vide"
+   },
+   "34": {
+      "FIELD2": "wp.com",
+      "FIELD3": "405428",
+      "FIELD4": "116570866",
+      "FIELD5": "8.01",
+      "FIELD6": "7.78",
+      "FIELD7": "vide"
+   },
+   "35": {
+      "FIELD2": "weebly.com",
+      "FIELD3": "404194",
+      "FIELD4": "14311666",
+      "FIELD5": "8.06",
+      "FIELD6": "8.05",
+      "FIELD7": "vide"
+   },
+   "36": {
+      "FIELD2": "jimdo.com",
+      "FIELD3": "398863",
+      "FIELD4": "15320910",
+      "FIELD5": "7.84",
+      "FIELD6": "7.46",
+      "FIELD7": "vide"
+   },
+   "37": {
+      "FIELD2": "blogger.com",
+      "FIELD3": "391461",
+      "FIELD4": "980371533",
+      "FIELD5": "7.88",
+      "FIELD6": "7.67",
+      "FIELD7": "vide"
+   },
+   "38": {
+      "FIELD2": "github.com",
+      "FIELD3": "386670",
+      "FIELD4": "98048242",
+      "FIELD5": "8.51",
+      "FIELD6": "8.47",
+      "FIELD7": "vide"
+   },
+   "39": {
+      "FIELD2": "bbc.co.uk",
+      "FIELD3": "385364",
+      "FIELD4": "103607196",
+      "FIELD5": "8.01",
+      "FIELD6": "8.80",
+      "FIELD7": "vide"
+   },
+   "40": {
+      "FIELD2": "soundcloud.com",
+      "FIELD3": "384407",
+      "FIELD4": "53364665",
+      "FIELD5": "8.05",
+      "FIELD6": "7.98",
+      "FIELD7": "vide"
+   },
+   "41": {
+      "FIELD2": "mozilla.org",
+      "FIELD3": "382094",
+      "FIELD4": "31783857",
+      "FIELD5": "8.29",
+      "FIELD6": "8.82",
+      "FIELD7": "vide"
+   },
+   "42": {
+      "FIELD2": "myspace.com",
+      "FIELD3": "370150",
+      "FIELD4": "56868622",
+      "FIELD5": "7.75",
+      "FIELD6": "7.69",
+      "FIELD7": "vide"
+   },
+   "43": {
+      "FIELD2": "yandex.ru",
+      "FIELD3": "358767",
+      "FIELD4": "137907763",
+      "FIELD5": "7.78",
+      "FIELD6": "7.12",
+      "FIELD7": "vide"
+   },
+   "44": {
+      "FIELD2": "google.de",
+      "FIELD3": "357557",
+      "FIELD4": "20043503",
+      "FIELD5": "8.19",
+      "FIELD6": "7.61",
+      "FIELD7": "vide"
+   },
+   "45": {
+      "FIELD2": "miitbeian.gov.cn",
+      "FIELD3": "353721",
+      "FIELD4": "63080392",
+      "FIELD5": "8.12",
+      "FIELD6": "7.27",
+      "FIELD7": "vide"
+   },
+   "46": {
+      "FIELD2": "gravatar.com",
+      "FIELD3": "348579",
+      "FIELD4": "25613834",
+      "FIELD5": "7.98",
+      "FIELD6": "7.82",
+      "FIELD7": "vide"
+   },
+   "47": {
+      "FIELD2": "theguardian.com",
+      "FIELD3": "325301",
+      "FIELD4": "29952650",
+      "FIELD5": "8.02",
+      "FIELD6": "8.54",
+      "FIELD7": "vide"
+   },
+   "48": {
+      "FIELD2": "nih.gov",
+      "FIELD3": "321754",
+      "FIELD4": "163577167",
+      "FIELD5": "8.05",
+      "FIELD6": "8.85",
+      "FIELD7": "vide"
+   },
+   "49": {
+      "FIELD2": "cnn.com",
+      "FIELD3": "319075",
+      "FIELD4": "49414510",
+      "FIELD5": "7.93",
+      "FIELD6": "8.80",
+      "FIELD7": "vide"
+   },
+   "50": {
+      "FIELD2": "google.co.jp",
+      "FIELD3": "318883",
+      "FIELD4": "32339402",
+      "FIELD5": "8.31",
+      "FIELD6": "7.72",
+      "FIELD7": "vide"
+   },
+   "51": {
+      "FIELD2": "addthis.com",
+      "FIELD3": "318194",
+      "FIELD4": "152618498",
+      "FIELD5": "8.21",
+      "FIELD6": "8.20",
+      "FIELD7": "vide"
+   },
+   "52": {
+      "FIELD2": "paypal.com",
+      "FIELD3": "305856",
+      "FIELD4": "33623956",
+      "FIELD5": "8.22",
+      "FIELD6": "8.06",
+      "FIELD7": "vide"
+   },
+   "53": {
+      "FIELD2": "huffingtonpost.com",
+      "FIELD3": "302052",
+      "FIELD4": "46545300",
+      "FIELD5": "7.92",
+      "FIELD6": "8.07",
+      "FIELD7": "vide"
+   },
+   "54": {
+      "FIELD2": "stumbleupon.com",
+      "FIELD3": "301931",
+      "FIELD4": "88401722",
+      "FIELD5": "7.65",
+      "FIELD6": "7.61",
+      "FIELD7": "vide"
+   },
+   "55": {
+      "FIELD2": "creativecommons.org",
+      "FIELD3": "298868",
+      "FIELD4": "155743170",
+      "FIELD5": "8.14",
+      "FIELD6": "8.85",
+      "FIELD7": "vide"
+   },
+   "56": {
+      "FIELD2": "wix.com",
+      "FIELD3": "298133",
+      "FIELD4": "7523864",
+      "FIELD5": "7.97",
+      "FIELD6": "7.83",
+      "FIELD7": "vide"
+   },
+   "57": {
+      "FIELD2": "imdb.com",
+      "FIELD3": "297351",
+      "FIELD4": "33510665",
+      "FIELD5": "7.83",
+      "FIELD6": "7.84",
+      "FIELD7": "vide"
+   },
+   "58": {
+      "FIELD2": "digg.com",
+      "FIELD3": "296713",
+      "FIELD4": "83582514",
+      "FIELD5": "7.65",
+      "FIELD6": "7.68",
+      "FIELD7": "vide"
+   },
+   "59": {
+      "FIELD2": "issuu.com",
+      "FIELD3": "293976",
+      "FIELD4": "60277879",
+      "FIELD5": "8.00",
+      "FIELD6": "8.03",
+      "FIELD7": "vide"
+   },
+   "60": {
+      "FIELD2": "yelp.com",
+      "FIELD3": "289816",
+      "FIELD4": "13649920",
+      "FIELD5": "7.91",
+      "FIELD6": "7.80",
+      "FIELD7": "vide"
+   },
+   "61": {
+      "FIELD2": "wixsite.com",
+      "FIELD3": "283714",
+      "FIELD4": "11271383",
+      "FIELD5": "7.72",
+      "FIELD6": "7.65",
+      "FIELD7": "vide"
+   },
+   "62": {
+      "FIELD2": "feedburner.com",
+      "FIELD3": "283390",
+      "FIELD4": "215984430",
+      "FIELD5": "7.89",
+      "FIELD6": "7.90",
+      "FIELD7": "vide"
+   },
+   "63": {
+      "FIELD2": "addtoany.com",
+      "FIELD3": "281826",
+      "FIELD4": "361674531",
+      "FIELD5": "7.95",
+      "FIELD6": "7.82",
+      "FIELD7": "vide"
+   },
+   "64": {
+      "FIELD2": "dropbox.com",
+      "FIELD3": "271963",
+      "FIELD4": "9922806",
+      "FIELD5": "8.04",
+      "FIELD6": "8.05",
+      "FIELD7": "vide"
+   },
+   "65": {
+      "FIELD2": "forbes.com",
+      "FIELD3": "267451",
+      "FIELD4": "10533427",
+      "FIELD5": "7.99",
+      "FIELD6": "8.08",
+      "FIELD7": "vide"
+   },
+   "66": {
+      "FIELD2": "amazonaws.com",
+      "FIELD3": "265997",
+      "FIELD4": "121779353",
+      "FIELD5": "8.19",
+      "FIELD6": "8.25",
+      "FIELD7": "vide"
+   },
+   "67": {
+      "FIELD2": "bluehost.com",
+      "FIELD3": "265098",
+      "FIELD4": "26109950",
+      "FIELD5": "7.35",
+      "FIELD6": "7.13",
+      "FIELD7": "vide"
+   },
+   "68": {
+      "FIELD2": "google.co.uk",
+      "FIELD3": "259757",
+      "FIELD4": "14103092",
+      "FIELD5": "8.08",
+      "FIELD6": "7.90",
+      "FIELD7": "vide"
+   },
+   "69": {
+      "FIELD2": "washingtonpost.com",
+      "FIELD3": "244950",
+      "FIELD4": "22114052",
+      "FIELD5": "7.86",
+      "FIELD6": "8.80",
+      "FIELD7": "vide"
+   },
+   "70": {
+      "FIELD2": "etsy.com",
+      "FIELD3": "241609",
+      "FIELD4": "15750328",
+      "FIELD5": "7.71",
+      "FIELD6": "7.55",
+      "FIELD7": "vide"
+   },
+   "71": {
+      "FIELD2": "go.com",
+      "FIELD3": "241336",
+      "FIELD4": "30121696",
+      "FIELD5": "7.89",
+      "FIELD6": "8.79",
+      "FIELD7": "vide"
+   },
+   "72": {
+      "FIELD2": "parallels.com",
+      "FIELD3": "237985",
+      "FIELD4": "4847668",
+      "FIELD5": "8.34",
+      "FIELD6": "7.86",
+      "FIELD7": "vide"
+   },
+   "73": {
+      "FIELD2": "wsj.com",
+      "FIELD3": "236691",
+      "FIELD4": "18702421",
+      "FIELD5": "7.93",
+      "FIELD6": "8.09",
+      "FIELD7": "vide"
+   },
+   "74": {
+      "FIELD2": "msn.com",
+      "FIELD3": "235992",
+      "FIELD4": "25846570",
+      "FIELD5": "7.72",
+      "FIELD6": "7.87",
+      "FIELD7": "vide"
+   },
+   "75": {
+      "FIELD2": "slideshare.net",
+      "FIELD3": "229346",
+      "FIELD4": "20592451",
+      "FIELD5": "7.94",
+      "FIELD6": "7.97",
+      "FIELD7": "vide"
+   },
+   "76": {
+      "FIELD2": "miibeian.gov.cn",
+      "FIELD3": "226505",
+      "FIELD4": "59468893",
+      "FIELD5": "8.16",
+      "FIELD6": "7.52",
+      "FIELD7": "vide"
+   },
+   "77": {
+      "FIELD2": "doubleclick.net",
+      "FIELD3": "224190",
+      "FIELD4": "161392648",
+      "FIELD5": "7.33",
+      "FIELD6": "7.40",
+      "FIELD7": "vide"
+   },
+   "78": {
+      "FIELD2": "archive.org",
+      "FIELD3": "223674",
+      "FIELD4": "23854491",
+      "FIELD5": "7.92",
+      "FIELD6": "8.05",
+      "FIELD7": "vide"
+   },
+   "79": {
+      "FIELD2": "eventbrite.com",
+      "FIELD3": "219668",
+      "FIELD4": "21875901",
+      "FIELD5": "7.96",
+      "FIELD6": "8.23",
+      "FIELD7": "vide"
+   },
+   "80": {
+      "FIELD2": "ameblo.jp",
+      "FIELD3": "215798",
+      "FIELD4": "51510835",
+      "FIELD5": "7.99",
+      "FIELD6": "7.36",
+      "FIELD7": "vide"
+   },
+   "81": {
+      "FIELD2": "e-recht24.de",
+      "FIELD3": "211470",
+      "FIELD4": "653482",
+      "FIELD5": "7.80",
+      "FIELD6": "7.01",
+      "FIELD7": "vide"
+   },
+   "82": {
+      "FIELD2": "telegraph.co.uk",
+      "FIELD3": "211178",
+      "FIELD4": "8314290",
+      "FIELD5": "7.74",
+      "FIELD6": "7.78",
+      "FIELD7": "vide"
+   },
+   "83": {
+      "FIELD2": "sourceforge.net",
+      "FIELD3": "210819",
+      "FIELD4": "43297640",
+      "FIELD5": "7.98",
+      "FIELD6": "8.25",
+      "FIELD7": "vide"
+   },
+   "84": {
+      "FIELD2": "fc2.com",
+      "FIELD3": "209769",
+      "FIELD4": "216066382",
+      "FIELD5": "7.78",
+      "FIELD6": "7.29",
+      "FIELD7": "vide"
+   },
+   "85": {
+      "FIELD2": "ebay.com",
+      "FIELD3": "207614",
+      "FIELD4": "114716652",
+      "FIELD5": "7.79",
+      "FIELD6": "7.65",
+      "FIELD7": "vide"
+   },
+   "86": {
+      "FIELD2": "amazon.co.uk",
+      "FIELD3": "207353",
+      "FIELD4": "28453091",
+      "FIELD5": "7.78",
+      "FIELD6": "7.73",
+      "FIELD7": "vide"
+   },
+   "87": {
+      "FIELD2": "livejournal.com",
+      "FIELD3": "203039",
+      "FIELD4": "57429270",
+      "FIELD5": "7.37",
+      "FIELD6": "7.35",
+      "FIELD7": "vide"
+   },
+   "88": {
+      "FIELD2": "free.fr",
+      "FIELD3": "201668",
+      "FIELD4": "13206555",
+      "FIELD5": "7.55",
+      "FIELD6": "7.51",
+      "FIELD7": "vide"
+   },
+   "89": {
+      "FIELD2": "mail.ru",
+      "FIELD3": "201488",
+      "FIELD4": "82280453",
+      "FIELD5": "7.74",
+      "FIELD6": "7.07",
+      "FIELD7": "vide"
+   },
+   "90": {
+      "FIELD2": "dailymail.co.uk",
+      "FIELD3": "198798",
+      "FIELD4": "10223298",
+      "FIELD5": "7.66",
+      "FIELD6": "7.71",
+      "FIELD7": "vide"
+   },
+   "91": {
+      "FIELD2": "amzn.to",
+      "FIELD3": "197953",
+      "FIELD4": "42449085",
+      "FIELD5": "7.72",
+      "FIELD6": "7.60",
+      "FIELD7": "vide"
+   },
+   "92": {
+      "FIELD2": "reuters.com",
+      "FIELD3": "196576",
+      "FIELD4": "77036447",
+      "FIELD5": "7.76",
+      "FIELD6": "7.91",
+      "FIELD7": "vide"
+   },
+   "93": {
+      "FIELD2": "bloomberg.com",
+      "FIELD3": "192864",
+      "FIELD4": "47251476",
+      "FIELD5": "7.79",
+      "FIELD6": "8.78",
+      "FIELD7": "vide"
+   },
+   "94": {
+      "FIELD2": "weibo.com",
+      "FIELD3": "191759",
+      "FIELD4": "86949020",
+      "FIELD5": "8.01",
+      "FIELD6": "7.72",
+      "FIELD7": "vide"
+   },
+   "95": {
+      "FIELD2": "wikimedia.org",
+      "FIELD3": "190252",
+      "FIELD4": "10652841",
+      "FIELD5": "7.66",
+      "FIELD6": "7.87",
+      "FIELD7": "vide"
+   },
+   "96": {
+      "FIELD2": "typepad.com",
+      "FIELD3": "188720",
+      "FIELD4": "53682173",
+      "FIELD5": "7.59",
+      "FIELD6": "7.79",
+      "FIELD7": "vide"
+   },
+   "97": {
+      "FIELD2": "yahoo.co.jp",
+      "FIELD3": "188680",
+      "FIELD4": "75964830",
+      "FIELD5": "7.93",
+      "FIELD6": "7.46",
+      "FIELD7": "vide"
+   },
+   "98": {
+      "FIELD2": "usatoday.com",
+      "FIELD3": "180971",
+      "FIELD4": "10455853",
+      "FIELD5": "7.78",
+      "FIELD6": "8.02",
+      "FIELD7": "vide"
+   },
+   "99": {
+      "FIELD2": "amazon.de",
+      "FIELD3": "180920",
+      "FIELD4": "52699270",
+      "FIELD5": "7.73",
+      "FIELD6": "7.38",
+      "FIELD7": "vide"
+   },
+   "100": {
+      "FIELD2": "cpanel.net",
+      "FIELD3": "180828",
+      "FIELD4": "528871",
+      "FIELD5": "8.24",
+      "FIELD6": "8.18",
+      "FIELD7": "vide"
+   },
+   "101": {
+      "FIELD2": "bing.com",
+      "FIELD3": "179729",
+      "FIELD4": "28399929",
+      "FIELD5": "7.93",
+      "FIELD6": "7.83",
+      "FIELD7": "vide"
+   },
+   "102": {
+      "FIELD2": "about.com",
+      "FIELD3": "179408",
+      "FIELD4": "2826889",
+      "FIELD5": "7.53",
+      "FIELD6": "7.76",
+      "FIELD7": "vide"
+   },
+   "103": {
+      "FIELD2": "eepurl.com",
+      "FIELD3": "178393",
+      "FIELD4": "30513852",
+      "FIELD5": "7.92",
+      "FIELD6": "8.00",
+      "FIELD7": "vide"
+   },
+   "104": {
+      "FIELD2": "51.la",
+      "FIELD3": "178204",
+      "FIELD4": "48877050",
+      "FIELD5": "8.26",
+      "FIELD6": "7.69",
+      "FIELD7": "vide"
+   },
+   "105": {
+      "FIELD2": "time.com",
+      "FIELD3": "176219",
+      "FIELD4": "5470729",
+      "FIELD5": "7.71",
+      "FIELD6": "7.87",
+      "FIELD7": "vide"
+   },
+   "106": {
+      "FIELD2": "hatena.ne.jp",
+      "FIELD3": "173765",
+      "FIELD4": "132435294",
+      "FIELD5": "7.83",
+      "FIELD6": "7.43",
+      "FIELD7": "vide"
+   },
+   "107": {
+      "FIELD2": "aol.com",
+      "FIELD3": "173340",
+      "FIELD4": "21808205",
+      "FIELD5": "7.69",
+      "FIELD6": "8.77",
+      "FIELD7": "vide"
+   },
+   "108": {
+      "FIELD2": "www.gov.uk",
+      "FIELD3": "172840",
+      "FIELD4": "10480190",
+      "FIELD5": "7.98",
+      "FIELD6": "8.32",
+      "FIELD7": "vide"
+   },
+   "109": {
+      "FIELD2": "macromedia.com",
+      "FIELD3": "172741",
+      "FIELD4": "7904907",
+      "FIELD5": "8.09",
+      "FIELD6": "8.10",
+      "FIELD7": "vide"
+   },
+   "110": {
+      "FIELD2": "elegantthemes.com",
+      "FIELD3": "171687",
+      "FIELD4": "8944399",
+      "FIELD5": "7.85",
+      "FIELD6": "7.61",
+      "FIELD7": "vide"
+   },
+   "111": {
+      "FIELD2": "cdc.gov",
+      "FIELD3": "169713",
+      "FIELD4": "5604403",
+      "FIELD5": "7.81",
+      "FIELD6": "8.31",
+      "FIELD7": "vide"
+   },
+   "112": {
+      "FIELD2": "medium.com",
+      "FIELD3": "169578",
+      "FIELD4": "14512686",
+      "FIELD5": "8.02",
+      "FIELD6": "7.96",
+      "FIELD7": "vide"
+   },
+   "113": {
+      "FIELD2": "google.it",
+      "FIELD3": "169202",
+      "FIELD4": "8388175",
+      "FIELD5": "7.74",
+      "FIELD6": "7.30",
+      "FIELD7": "vide"
+   },
+   "114": {
+      "FIELD2": "taobao.com",
+      "FIELD3": "167566",
+      "FIELD4": "56236819",
+      "FIELD5": "7.62",
+      "FIELD6": "7.05",
+      "FIELD7": "vide"
+   },
+   "115": {
+      "FIELD2": "cpanel.com",
+      "FIELD3": "166997",
+      "FIELD4": "695437",
+      "FIELD5": "8.17",
+      "FIELD6": "8.14",
+      "FIELD7": "vide"
+   },
+   "116": {
+      "FIELD2": "npr.org",
+      "FIELD3": "166547",
+      "FIELD4": "16117912",
+      "FIELD5": "7.67",
+      "FIELD6": "7.94",
+      "FIELD7": "vide"
+   },
+   "117": {
+      "FIELD2": "harvard.edu",
+      "FIELD3": "166322",
+      "FIELD4": "16322917",
+      "FIELD5": "7.76",
+      "FIELD6": "8.79",
+      "FIELD7": "vide"
+   },
+   "118": {
+      "FIELD2": "xing.com",
+      "FIELD3": "165319",
+      "FIELD4": "31083744",
+      "FIELD5": "7.90",
+      "FIELD6": "7.47",
+      "FIELD7": "vide"
+   },
+   "119": {
+      "FIELD2": "latimes.com",
+      "FIELD3": "164161",
+      "FIELD4": "9340939",
+      "FIELD5": "7.65",
+      "FIELD6": "8.77",
+      "FIELD7": "vide"
+   },
+   "120": {
+      "FIELD2": "tripadvisor.com",
+      "FIELD3": "163955",
+      "FIELD4": "15686439",
+      "FIELD5": "7.87",
+      "FIELD6": "7.87",
+      "FIELD7": "vide"
+   },
+   "121": {
+      "FIELD2": "webs.com",
+      "FIELD3": "163954",
+      "FIELD4": "11849579",
+      "FIELD5": "7.38",
+      "FIELD6": "7.50",
+      "FIELD7": "vide"
+   },
+   "122": {
+      "FIELD2": "constantcontact.com",
+      "FIELD3": "163913",
+      "FIELD4": "26896126",
+      "FIELD5": "8.00",
+      "FIELD6": "8.24",
+      "FIELD7": "vide"
+   },
+   "123": {
+      "FIELD2": "blogspot.co.uk",
+      "FIELD3": "161535",
+      "FIELD4": "13393344",
+      "FIELD5": "7.54",
+      "FIELD6": "7.52",
+      "FIELD7": "vide"
+   },
+   "124": {
+      "FIELD2": "list-manage.com",
+      "FIELD3": "161334",
+      "FIELD4": "16856245",
+      "FIELD5": "7.80",
+      "FIELD6": "7.93",
+      "FIELD7": "vide"
+   },
+   "125": {
+      "FIELD2": "opera.com",
+      "FIELD3": "161055",
+      "FIELD4": "10357208",
+      "FIELD5": "7.98",
+      "FIELD6": "7.76",
+      "FIELD7": "vide"
+   },
+   "126": {
+      "FIELD2": "live.com",
+      "FIELD3": "160214",
+      "FIELD4": "30962219",
+      "FIELD5": "7.73",
+      "FIELD6": "7.72",
+      "FIELD7": "vide"
+   },
+   "127": {
+      "FIELD2": "bbb.org",
+      "FIELD3": "159163",
+      "FIELD4": "31623951",
+      "FIELD5": "7.96",
+      "FIELD6": "7.97",
+      "FIELD7": "vide"
+   },
+   "128": {
+      "FIELD2": "amazon.co.jp",
+      "FIELD3": "157719",
+      "FIELD4": "162837431",
+      "FIELD5": "7.83",
+      "FIELD6": "7.37",
+      "FIELD7": "vide"
+   },
+   "129": {
+      "FIELD2": "apache.org",
+      "FIELD3": "157469",
+      "FIELD4": "36739497",
+      "FIELD5": "8.11",
+      "FIELD6": "8.80",
+      "FIELD7": "vide"
+   },
+   "130": {
+      "FIELD2": "icio.us",
+      "FIELD3": "156443",
+      "FIELD4": "51811896",
+      "FIELD5": "7.42",
+      "FIELD6": "7.51",
+      "FIELD7": "vide"
+   },
+   "131": {
+      "FIELD2": "bbc.com",
+      "FIELD3": "155636",
+      "FIELD4": "15124137",
+      "FIELD5": "7.89",
+      "FIELD6": "7.83",
+      "FIELD7": "vide"
+   },
+   "132": {
+      "FIELD2": "bandcamp.com",
+      "FIELD3": "155634",
+      "FIELD4": "14076386",
+      "FIELD5": "7.64",
+      "FIELD6": "7.49",
+      "FIELD7": "vide"
+   },
+   "133": {
+      "FIELD2": "dailymotion.com",
+      "FIELD3": "154942",
+      "FIELD4": "17458982",
+      "FIELD5": "7.56",
+      "FIELD6": "7.52",
+      "FIELD7": "vide"
+   },
+   "134": {
+      "FIELD2": "businessinsider.com",
+      "FIELD3": "154403",
+      "FIELD4": "6726903",
+      "FIELD5": "7.77",
+      "FIELD6": "7.90",
+      "FIELD7": "vide"
+   },
+   "135": {
+      "FIELD2": "mit.edu",
+      "FIELD3": "150417",
+      "FIELD4": "66842528",
+      "FIELD5": "7.73",
+      "FIELD6": "8.78",
+      "FIELD7": "vide"
+   },
+   "136": {
+      "FIELD2": "vkontakte.ru",
+      "FIELD3": "150326",
+      "FIELD4": "22819871",
+      "FIELD5": "7.85",
+      "FIELD6": "7.47",
+      "FIELD7": "vide"
+   },
+   "137": {
+      "FIELD2": "behance.net",
+      "FIELD3": "149926",
+      "FIELD4": "9524241",
+      "FIELD5": "7.67",
+      "FIELD6": "7.39",
+      "FIELD7": "vide"
+   },
+   "138": {
+      "FIELD2": "github.io",
+      "FIELD3": "146926",
+      "FIELD4": "12827364",
+      "FIELD5": "8.04",
+      "FIELD6": "8.13",
+      "FIELD7": "vide"
+   },
+   "139": {
+      "FIELD2": "google.es",
+      "FIELD3": "145596",
+      "FIELD4": "11981768",
+      "FIELD5": "7.71",
+      "FIELD6": "7.37",
+      "FIELD7": "vide"
+   },
+   "140": {
+      "FIELD2": "disqus.com",
+      "FIELD3": "144711",
+      "FIELD4": "89221937",
+      "FIELD5": "7.84",
+      "FIELD6": "7.86",
+      "FIELD7": "vide"
+   },
+   "141": {
+      "FIELD2": "wired.com",
+      "FIELD3": "144675",
+      "FIELD4": "5894472",
+      "FIELD5": "7.71",
+      "FIELD6": "8.77",
+      "FIELD7": "vide"
+   },
+   "142": {
+      "FIELD2": "gnu.org",
+      "FIELD3": "144589",
+      "FIELD4": "32721097",
+      "FIELD5": "7.89",
+      "FIELD6": "8.79",
+      "FIELD7": "vide"
+   },
+   "143": {
+      "FIELD2": "spotify.com",
+      "FIELD3": "143992",
+      "FIELD4": "36050619",
+      "FIELD5": "7.76",
+      "FIELD6": "7.58",
+      "FIELD7": "vide"
+   },
+   "144": {
+      "FIELD2": "surveymonkey.com",
+      "FIELD3": "143326",
+      "FIELD4": "11903036",
+      "FIELD5": "7.97",
+      "FIELD6": "8.23",
+      "FIELD7": "vide"
+   },
+   "145": {
+      "FIELD2": "stanford.edu",
+      "FIELD3": "143068",
+      "FIELD4": "5837746",
+      "FIELD5": "7.77",
+      "FIELD6": "8.79",
+      "FIELD7": "vide"
+   },
+   "146": {
+      "FIELD2": "kickstarter.com",
+      "FIELD3": "142861",
+      "FIELD4": "5695598",
+      "FIELD5": "7.57",
+      "FIELD6": "7.55",
+      "FIELD7": "vide"
+   },
+   "147": {
+      "FIELD2": "guardian.co.uk",
+      "FIELD3": "142396",
+      "FIELD4": "6976650",
+      "FIELD5": "7.49",
+      "FIELD6": "8.76",
+      "FIELD7": "vide"
+   },
+   "148": {
+      "FIELD2": "google.fr",
+      "FIELD3": "141732",
+      "FIELD4": "11966772",
+      "FIELD5": "7.82",
+      "FIELD6": "7.54",
+      "FIELD7": "vide"
+   },
+   "149": {
+      "FIELD2": "nasa.gov",
+      "FIELD3": "140607",
+      "FIELD4": "11618915",
+      "FIELD5": "7.63",
+      "FIELD6": "8.78",
+      "FIELD7": "vide"
+   },
+   "150": {
+      "FIELD2": "googleusercontent.com",
+      "FIELD3": "140370",
+      "FIELD4": "20746255",
+      "FIELD5": "7.51",
+      "FIELD6": "7.46",
+      "FIELD7": "vide"
+   },
+   "151": {
+      "FIELD2": "joomla.org",
+      "FIELD3": "140140",
+      "FIELD4": "23894969",
+      "FIELD5": "7.79",
+      "FIELD6": "7.49",
+      "FIELD7": "vide"
+   },
+   "152": {
+      "FIELD2": "imgur.com",
+      "FIELD3": "139974",
+      "FIELD4": "28087234",
+      "FIELD5": "7.50",
+      "FIELD6": "7.47",
+      "FIELD7": "vide"
+   },
+   "153": {
+      "FIELD2": "rambler.ru",
+      "FIELD3": "139668",
+      "FIELD4": "72582455",
+      "FIELD5": "7.59",
+      "FIELD6": "6.93",
+      "FIELD7": "vide"
+   },
+   "154": {
+      "FIELD2": "goodreads.com",
+      "FIELD3": "138668",
+      "FIELD4": "32890185",
+      "FIELD5": "7.41",
+      "FIELD6": "7.55",
+      "FIELD7": "vide"
+   },
+   "155": {
+      "FIELD2": "independent.co.uk",
+      "FIELD3": "138636",
+      "FIELD4": "5641072",
+      "FIELD5": "7.58",
+      "FIELD6": "7.66",
+      "FIELD7": "vide"
+   },
+   "156": {
+      "FIELD2": "ted.com",
+      "FIELD3": "138006",
+      "FIELD4": "2946810",
+      "FIELD5": "7.59",
+      "FIELD6": "7.69",
+      "FIELD7": "vide"
+   },
+   "157": {
+      "FIELD2": "beian.gov.cn",
+      "FIELD3": "136297",
+      "FIELD4": "37712766",
+      "FIELD5": "7.77",
+      "FIELD6": "7.18",
+      "FIELD7": "vide"
+   },
+   "158": {
+      "FIELD2": "1und1.de",
+      "FIELD3": "135677",
+      "FIELD4": "2500956",
+      "FIELD5": "7.62",
+      "FIELD6": "6.62",
+      "FIELD7": "vide"
+   },
+   "159": {
+      "FIELD2": "photobucket.com",
+      "FIELD3": "135121",
+      "FIELD4": "19942273",
+      "FIELD5": "7.32",
+      "FIELD6": "7.29",
+      "FIELD7": "vide"
+   },
+   "160": {
+      "FIELD2": "cnet.com",
+      "FIELD3": "134814",
+      "FIELD4": "11128726",
+      "FIELD5": "7.74",
+      "FIELD6": "7.81",
+      "FIELD7": "vide"
+   },
+   "161": {
+      "FIELD2": "google.ca",
+      "FIELD3": "134359",
+      "FIELD4": "10517842",
+      "FIELD5": "7.73",
+      "FIELD6": "7.67",
+      "FIELD7": "vide"
+   },
+   "162": {
+      "FIELD2": "line.me",
+      "FIELD3": "133872",
+      "FIELD4": "41618350",
+      "FIELD5": "7.89",
+      "FIELD6": "7.38",
+      "FIELD7": "vide"
+   },
+   "163": {
+      "FIELD2": "namejet.com",
+      "FIELD3": "133856",
+      "FIELD4": "1973093",
+      "FIELD5": "7.99",
+      "FIELD6": "7.63",
+      "FIELD7": "vide"
+   },
+   "164": {
+      "FIELD2": "delicious.com",
+      "FIELD3": "132988",
+      "FIELD4": "30715189",
+      "FIELD5": "7.31",
+      "FIELD6": "7.41",
+      "FIELD7": "vide"
+   },
+   "165": {
+      "FIELD2": "scribd.com",
+      "FIELD3": "132530",
+      "FIELD4": "9523509",
+      "FIELD5": "7.47",
+      "FIELD6": "7.70",
+      "FIELD7": "vide"
+   },
+   "166": {
+      "FIELD2": "rakuten.co.jp",
+      "FIELD3": "132082",
+      "FIELD4": "61803467",
+      "FIELD5": "7.75",
+      "FIELD6": "7.23",
+      "FIELD7": "vide"
+   },
+   "167": {
+      "FIELD2": "deviantart.com",
+      "FIELD3": "130536",
+      "FIELD4": "8925484",
+      "FIELD5": "7.39",
+      "FIELD6": "7.27",
+      "FIELD7": "vide"
+   },
+   "168": {
+      "FIELD2": "homestead.com",
+      "FIELD3": "129539",
+      "FIELD4": "2766526",
+      "FIELD5": "7.75",
+      "FIELD6": "7.64",
+      "FIELD7": "vide"
+   },
+   "169": {
+      "FIELD2": "themeforest.net",
+      "FIELD3": "129250",
+      "FIELD4": "13582511",
+      "FIELD5": "7.70",
+      "FIELD6": "7.35",
+      "FIELD7": "vide"
+   },
+   "170": {
+      "FIELD2": "sina.com.cn",
+      "FIELD3": "127492",
+      "FIELD4": "21851434",
+      "FIELD5": "7.55",
+      "FIELD6": "7.19",
+      "FIELD7": "vide"
+   },
+   "171": {
+      "FIELD2": "ca.gov",
+      "FIELD3": "126159",
+      "FIELD4": "8820229",
+      "FIELD5": "7.73",
+      "FIELD6": "8.80",
+      "FIELD7": "vide"
+   },
+   "172": {
+      "FIELD2": "one.com",
+      "FIELD3": "125095",
+      "FIELD4": "1181977",
+      "FIELD5": "7.57",
+      "FIELD6": "6.40",
+      "FIELD7": "vide"
+   },
+   "173": {
+      "FIELD2": "shopify.com",
+      "FIELD3": "122544",
+      "FIELD4": "18794213",
+      "FIELD5": "7.93",
+      "FIELD6": "7.79",
+      "FIELD7": "vide"
+   },
+   "174": {
+      "FIELD2": "domainname.de",
+      "FIELD3": "121362",
+      "FIELD4": "458662",
+      "FIELD5": "7.95",
+      "FIELD6": "6.59",
+      "FIELD7": "vide"
+   },
+   "175": {
+      "FIELD2": "wiley.com",
+      "FIELD3": "120448",
+      "FIELD4": "8968823",
+      "FIELD5": "7.71",
+      "FIELD6": "8.02",
+      "FIELD7": "vide"
+   },
+   "176": {
+      "FIELD2": "who.int",
+      "FIELD3": "120009",
+      "FIELD4": "10470148",
+      "FIELD5": "7.76",
+      "FIELD6": "8.79",
+      "FIELD7": "vide"
+   },
+   "177": {
+      "FIELD2": "domainactive.co",
+      "FIELD3": "119549",
+      "FIELD4": "337422",
+      "FIELD5": "7.98",
+      "FIELD6": "7.28",
+      "FIELD7": "vide"
+   },
+   "178": {
+      "FIELD2": "un.org",
+      "FIELD3": "119303",
+      "FIELD4": "17162543",
+      "FIELD5": "7.73",
+      "FIELD6": "8.80",
+      "FIELD7": "vide"
+   },
+   "179": {
+      "FIELD2": "buzzfeed.com",
+      "FIELD3": "119188",
+      "FIELD4": "2597770",
+      "FIELD5": "7.55",
+      "FIELD6": "7.56",
+      "FIELD7": "vide"
+   },
+   "180": {
+      "FIELD2": "nationalgeographic.com",
+      "FIELD3": "117711",
+      "FIELD4": "3504105",
+      "FIELD5": "7.48",
+      "FIELD6": "8.76",
+      "FIELD7": "vide"
+   },
+   "181": {
+      "FIELD2": "pbs.org",
+      "FIELD3": "117580",
+      "FIELD4": "4783614",
+      "FIELD5": "7.50",
+      "FIELD6": "8.77",
+      "FIELD7": "vide"
+   },
+   "182": {
+      "FIELD2": "theatlantic.com",
+      "FIELD3": "117475",
+      "FIELD4": "4917704",
+      "FIELD5": "7.60",
+      "FIELD6": "7.78",
+      "FIELD7": "vide"
+   },
+   "183": {
+      "FIELD2": "barnesandnoble.com",
+      "FIELD3": "116600",
+      "FIELD4": "8328188",
+      "FIELD5": "7.57",
+      "FIELD6": "8.76",
+      "FIELD7": "vide"
+   },
+   "184": {
+      "FIELD2": "cbsnews.com",
+      "FIELD3": "115031",
+      "FIELD4": "9201847",
+      "FIELD5": "7.50",
+      "FIELD6": "7.82",
+      "FIELD7": "vide"
+   },
+   "185": {
+      "FIELD2": "webmd.com",
+      "FIELD3": "114813",
+      "FIELD4": "2883453",
+      "FIELD5": "7.41",
+      "FIELD6": "7.57",
+      "FIELD7": "vide"
+   },
+   "186": {
+      "FIELD2": "foxnews.com",
+      "FIELD3": "114531",
+      "FIELD4": "16162529",
+      "FIELD5": "7.44",
+      "FIELD6": "7.74",
+      "FIELD7": "vide"
+   },
+   "187": {
+      "FIELD2": "plesk.com",
+      "FIELD3": "114305",
+      "FIELD4": "1626079",
+      "FIELD5": "7.71",
+      "FIELD6": "7.33",
+      "FIELD7": "vide"
+   },
+   "188": {
+      "FIELD2": "blogspot.com.es",
+      "FIELD3": "113806",
+      "FIELD4": "22368242",
+      "FIELD5": "7.32",
+      "FIELD6": "7.09",
+      "FIELD7": "vide"
+   },
+   "189": {
+      "FIELD2": "nature.com",
+      "FIELD3": "113541",
+      "FIELD4": "5365495",
+      "FIELD5": "7.54",
+      "FIELD6": "7.88",
+      "FIELD7": "vide"
+   },
+   "190": {
+      "FIELD2": "domainretailing.com",
+      "FIELD3": "113352",
+      "FIELD4": "3046592",
+      "FIELD5": "8.05",
+      "FIELD6": "7.57",
+      "FIELD7": "vide"
+   },
+   "191": {
+      "FIELD2": "techcrunch.com",
+      "FIELD3": "113230",
+      "FIELD4": "6582104",
+      "FIELD5": "7.73",
+      "FIELD6": "7.77",
+      "FIELD7": "vide"
+   },
+   "192": {
+      "FIELD2": "sakura.ne.jp",
+      "FIELD3": "111909",
+      "FIELD4": "18032618",
+      "FIELD5": "7.59",
+      "FIELD6": "7.23",
+      "FIELD7": "vide"
+   },
+   "193": {
+      "FIELD2": "cloudfront.net",
+      "FIELD3": "111545",
+      "FIELD4": "59796267",
+      "FIELD5": "7.92",
+      "FIELD6": "8.09",
+      "FIELD7": "vide"
+   },
+   "194": {
+      "FIELD2": "whatsapp.com",
+      "FIELD3": "111229",
+      "FIELD4": "19301641",
+      "FIELD5": "7.60",
+      "FIELD6": "7.20",
+      "FIELD7": "vide"
+   },
+   "195": {
+      "FIELD2": "php.net",
+      "FIELD3": "110964",
+      "FIELD4": "52510154",
+      "FIELD5": "7.73",
+      "FIELD6": "8.75",
+      "FIELD7": "vide"
+   },
+   "196": {
+      "FIELD2": "berkeley.edu",
+      "FIELD3": "109941",
+      "FIELD4": "5155205",
+      "FIELD5": "7.58",
+      "FIELD6": "8.77",
+      "FIELD7": "vide"
+   },
+   "197": {
+      "FIELD2": "booking.com",
+      "FIELD3": "109548",
+      "FIELD4": "26397699",
+      "FIELD5": "7.68",
+      "FIELD6": "7.43",
+      "FIELD7": "vide"
+   },
+   "198": {
+      "FIELD2": "ibm.com",
+      "FIELD3": "109466",
+      "FIELD4": "22625394",
+      "FIELD5": "7.76",
+      "FIELD6": "8.78",
+      "FIELD7": "vide"
+   },
+   "199": {
+      "FIELD2": "sciencedirect.com",
+      "FIELD3": "108783",
+      "FIELD4": "7586380",
+      "FIELD5": "7.62",
+      "FIELD6": "7.95",
+      "FIELD7": "vide"
+   },
+   "200": {
+      "FIELD2": "nbcnews.com",
+      "FIELD3": "108365",
+      "FIELD4": "9631851",
+      "FIELD5": "7.48",
+      "FIELD6": "7.70",
+      "FIELD7": "vide"
+   },
+   "201": {
+      "FIELD2": "networksolutions.com",
+      "FIELD3": "107847",
+      "FIELD4": "3975335",
+      "FIELD5": "7.50",
+      "FIELD6": "7.54",
+      "FIELD7": "vide"
+   },
+   "202": {
+      "FIELD2": "mashable.com",
+      "FIELD3": "107824",
+      "FIELD4": "8598700",
+      "FIELD5": "7.68",
+      "FIELD6": "7.66",
+      "FIELD7": "vide"
+   },
+   "203": {
+      "FIELD2": "jiathis.com",
+      "FIELD3": "107075",
+      "FIELD4": "12683856",
+      "FIELD5": "7.58",
+      "FIELD6": "6.93",
+      "FIELD7": "vide"
+   },
+   "204": {
+      "FIELD2": "cornell.edu",
+      "FIELD3": "105205",
+      "FIELD4": "7063708",
+      "FIELD5": "7.57",
+      "FIELD6": "8.79",
+      "FIELD7": "vide"
+   },
+   "205": {
+      "FIELD2": "skype.com",
+      "FIELD3": "103888",
+      "FIELD4": "7939322",
+      "FIELD5": "7.55",
+      "FIELD6": "7.45",
+      "FIELD7": "vide"
+   },
+   "206": {
+      "FIELD2": "usda.gov",
+      "FIELD3": "103575",
+      "FIELD4": "6031334",
+      "FIELD5": "7.61",
+      "FIELD6": "8.81",
+      "FIELD7": "vide"
+   },
+   "207": {
+      "FIELD2": "whitehouse.gov",
+      "FIELD3": "103228",
+      "FIELD4": "5889605",
+      "FIELD5": "7.68",
+      "FIELD6": "8.83",
+      "FIELD7": "vide"
+   },
+   "208": {
+      "FIELD2": "wp.me",
+      "FIELD3": "102929",
+      "FIELD4": "12075194",
+      "FIELD5": "7.45",
+      "FIELD6": "7.40",
+      "FIELD7": "vide"
+   },
+   "209": {
+      "FIELD2": "squarespace.com",
+      "FIELD3": "102784",
+      "FIELD4": "3677766",
+      "FIELD5": "7.65",
+      "FIELD6": "7.77",
+      "FIELD7": "vide"
+   },
+   "210": {
+      "FIELD2": "trustpilot.com",
+      "FIELD3": "102691",
+      "FIELD4": "10938348",
+      "FIELD5": "7.47",
+      "FIELD6": "7.10",
+      "FIELD7": "vide"
+   },
+   "211": {
+      "FIELD2": "change.org",
+      "FIELD3": "101460",
+      "FIELD4": "2079052",
+      "FIELD5": "7.39",
+      "FIELD6": "7.47",
+      "FIELD7": "vide"
+   },
+   "212": {
+      "FIELD2": "springer.com",
+      "FIELD3": "101135",
+      "FIELD4": "11277531",
+      "FIELD5": "7.76",
+      "FIELD6": "8.04",
+      "FIELD7": "vide"
+   },
+   "213": {
+      "FIELD2": "a8.net",
+      "FIELD3": "100145",
+      "FIELD4": "27269183",
+      "FIELD5": "7.51",
+      "FIELD6": "7.13",
+      "FIELD7": "vide"
+   },
+   "214": {
+      "FIELD2": "cbc.ca",
+      "FIELD3": "100124",
+      "FIELD4": "11754254",
+      "FIELD5": "7.40",
+      "FIELD6": "7.60",
+      "FIELD7": "vide"
+   },
+   "215": {
+      "FIELD2": "ft.com",
+      "FIELD3": "100054",
+      "FIELD4": "6686830",
+      "FIELD5": "7.62",
+      "FIELD6": "8.75",
+      "FIELD7": "vide"
+   },
+   "216": {
+      "FIELD2": "secureserver.net",
+      "FIELD3": "99438",
+      "FIELD4": "4355587",
+      "FIELD5": "7.87",
+      "FIELD6": "7.43",
+      "FIELD7": "vide"
+   },
+   "217": {
+      "FIELD2": "meetup.com",
+      "FIELD3": "99253",
+      "FIELD4": "7895890",
+      "FIELD5": "7.56",
+      "FIELD6": "7.72",
+      "FIELD7": "vide"
+   },
+   "218": {
+      "FIELD2": "epa.gov",
+      "FIELD3": "98538",
+      "FIELD4": "3016219",
+      "FIELD5": "7.59",
+      "FIELD6": "8.80",
+      "FIELD7": "vide"
+   },
+   "219": {
+      "FIELD2": "noaa.gov",
+      "FIELD3": "98413",
+      "FIELD4": "27640046",
+      "FIELD5": "7.55",
+      "FIELD6": "8.79",
+      "FIELD7": "vide"
+   },
+   "220": {
+      "FIELD2": "myshopify.com",
+      "FIELD3": "97981",
+      "FIELD4": "11420879",
+      "FIELD5": "7.81",
+      "FIELD6": "7.74",
+      "FIELD7": "vide"
+   },
+   "221": {
+      "FIELD2": "naver.com",
+      "FIELD3": "97740",
+      "FIELD4": "41149544",
+      "FIELD5": "7.71",
+      "FIELD6": "7.26",
+      "FIELD7": "vide"
+   },
+   "222": {
+      "FIELD2": "wikia.com",
+      "FIELD3": "96751",
+      "FIELD4": "4906310",
+      "FIELD5": "7.36",
+      "FIELD6": "7.43",
+      "FIELD7": "vide"
+   },
+   "223": {
+      "FIELD2": "nps.gov",
+      "FIELD3": "96362",
+      "FIELD4": "2746209",
+      "FIELD5": "7.43",
+      "FIELD6": "7.95",
+      "FIELD7": "vide"
+   },
+   "224": {
+      "FIELD2": "cnbc.com",
+      "FIELD3": "95403",
+      "FIELD4": "5439753",
+      "FIELD5": "7.62",
+      "FIELD6": "7.81",
+      "FIELD7": "vide"
+   },
+   "225": {
+      "FIELD2": "usnews.com",
+      "FIELD3": "95171",
+      "FIELD4": "4011390",
+      "FIELD5": "7.46",
+      "FIELD6": "7.75",
+      "FIELD7": "vide"
+   },
+   "226": {
+      "FIELD2": "phoca.cz",
+      "FIELD3": "95107",
+      "FIELD4": "2654284",
+      "FIELD5": "7.51",
+      "FIELD6": "7.23",
+      "FIELD7": "vide"
+   },
+   "227": {
+      "FIELD2": "ow.ly",
+      "FIELD3": "94904",
+      "FIELD4": "11536192",
+      "FIELD5": "7.39",
+      "FIELD6": "7.62",
+      "FIELD7": "vide"
+   },
+   "228": {
+      "FIELD2": "google.nl",
+      "FIELD3": "94170",
+      "FIELD4": "3846895",
+      "FIELD5": "7.68",
+      "FIELD6": "7.28",
+      "FIELD7": "vide"
+   },
+   "229": {
+      "FIELD2": "mapquest.com",
+      "FIELD3": "93113",
+      "FIELD4": "6347213",
+      "FIELD5": "7.52",
+      "FIELD6": "7.73",
+      "FIELD7": "vide"
+   },
+   "230": {
+      "FIELD2": "enable-javascript.com",
+      "FIELD3": "92370",
+      "FIELD4": "19448582",
+      "FIELD5": "7.79",
+      "FIELD6": "7.81",
+      "FIELD7": "vide"
+   },
+   "231": {
+      "FIELD2": "uol.com.br",
+      "FIELD3": "90701",
+      "FIELD4": "20261158",
+      "FIELD5": "7.34",
+      "FIELD6": "7.25",
+      "FIELD7": "vide"
+   },
+   "232": {
+      "FIELD2": "foursquare.com",
+      "FIELD3": "90607",
+      "FIELD4": "13826366",
+      "FIELD5": "7.41",
+      "FIELD6": "7.66",
+      "FIELD7": "vide"
+   },
+   "233": {
+      "FIELD2": "phpbb.com",
+      "FIELD3": "90367",
+      "FIELD4": "91447103",
+      "FIELD5": "7.53",
+      "FIELD6": "7.29",
+      "FIELD7": "vide"
+   },
+   "234": {
+      "FIELD2": "loc.gov",
+      "FIELD3": "90149",
+      "FIELD4": "15345761",
+      "FIELD5": "7.57",
+      "FIELD6": "8.79",
+      "FIELD7": "vide"
+   },
+   "235": {
+      "FIELD2": "economist.com",
+      "FIELD3": "90098",
+      "FIELD4": "4104996",
+      "FIELD5": "7.46",
+      "FIELD6": "8.76",
+      "FIELD7": "vide"
+   },
+   "236": {
+      "FIELD2": "163.com",
+      "FIELD3": "89657",
+      "FIELD4": "13319170",
+      "FIELD5": "7.37",
+      "FIELD6": "6.91",
+      "FIELD7": "vide"
+   },
+   "237": {
+      "FIELD2": "google.com.br",
+      "FIELD3": "89457",
+      "FIELD4": "5341994",
+      "FIELD5": "7.50",
+      "FIELD6": "7.08",
+      "FIELD7": "vide"
+   },
+   "238": {
+      "FIELD2": "hostnet.nl",
+      "FIELD3": "88931",
+      "FIELD4": "3577734",
+      "FIELD5": "7.84",
+      "FIELD6": "6.20",
+      "FIELD7": "vide"
+   },
+   "239": {
+      "FIELD2": "fda.gov",
+      "FIELD3": "88370",
+      "FIELD4": "3099967",
+      "FIELD5": "7.61",
+      "FIELD6": "7.95",
+      "FIELD7": "vide"
+   },
+   "240": {
+      "FIELD2": "irs.gov",
+      "FIELD3": "86830",
+      "FIELD4": "2702339",
+      "FIELD5": "7.62",
+      "FIELD6": "8.10",
+      "FIELD7": "vide"
+   },
+   "241": {
+      "FIELD2": "chicagotribune.com",
+      "FIELD3": "86565",
+      "FIELD4": "5267161",
+      "FIELD5": "7.41",
+      "FIELD6": "7.74",
+      "FIELD7": "vide"
+   },
+   "242": {
+      "FIELD2": "wufoo.com",
+      "FIELD3": "86258",
+      "FIELD4": "6696498",
+      "FIELD5": "7.74",
+      "FIELD6": "7.85",
+      "FIELD7": "vide"
+   },
+   "243": {
+      "FIELD2": "sfgate.com",
+      "FIELD3": "85820",
+      "FIELD4": "2967582",
+      "FIELD5": "7.34",
+      "FIELD6": "7.60",
+      "FIELD7": "vide"
+   },
+   "244": {
+      "FIELD2": "4.cn",
+      "FIELD3": "84904",
+      "FIELD4": "479308",
+      "FIELD5": "7.52",
+      "FIELD6": "6.63",
+      "FIELD7": "vide"
+   },
+   "245": {
+      "FIELD2": "newyorker.com",
+      "FIELD3": "84808",
+      "FIELD4": "3422107",
+      "FIELD5": "7.47",
+      "FIELD6": "7.62",
+      "FIELD7": "vide"
+   },
+   "246": {
+      "FIELD2": "bigcartel.com",
+      "FIELD3": "84791",
+      "FIELD4": "5936638",
+      "FIELD5": "7.53",
+      "FIELD6": "7.31",
+      "FIELD7": "vide"
+   },
+   "247": {
+      "FIELD2": "hp.com",
+      "FIELD3": "84662",
+      "FIELD4": "15294500",
+      "FIELD5": "7.48",
+      "FIELD6": "7.70",
+      "FIELD7": "vide"
+   },
+   "248": {
+      "FIELD2": "prnewswire.com",
+      "FIELD3": "84650",
+      "FIELD4": "7992930",
+      "FIELD5": "7.59",
+      "FIELD6": "7.83",
+      "FIELD7": "vide"
+   },
+   "249": {
+      "FIELD2": "abc.net.au",
+      "FIELD3": "84225",
+      "FIELD4": "7731091",
+      "FIELD5": "7.32",
+      "FIELD6": "7.51",
+      "FIELD7": "vide"
+   },
+   "250": {
+      "FIELD2": "telegram.me",
+      "FIELD3": "84048",
+      "FIELD4": "37988093",
+      "FIELD5": "7.48",
+      "FIELD6": "6.99",
+      "FIELD7": "vide"
+   },
+   "251": {
+      "FIELD2": "bizjournals.com",
+      "FIELD3": "83988",
+      "FIELD4": "3067005",
+      "FIELD5": "7.52",
+      "FIELD6": "7.79",
+      "FIELD7": "vide"
+   },
+   "252": {
+      "FIELD2": "slate.com",
+      "FIELD3": "83772",
+      "FIELD4": "3807658",
+      "FIELD5": "7.39",
+      "FIELD6": "7.61",
+      "FIELD7": "vide"
+   },
+   "253": {
+      "FIELD2": "gizmodo.com",
+      "FIELD3": "83716",
+      "FIELD4": "4893683",
+      "FIELD5": "7.31",
+      "FIELD6": "7.46",
+      "FIELD7": "vide"
+   },
+   "254": {
+      "FIELD2": "geocities.jp",
+      "FIELD3": "82979",
+      "FIELD4": "6781473",
+      "FIELD5": "7.34",
+      "FIELD6": "7.05",
+      "FIELD7": "vide"
+   },
+   "255": {
+      "FIELD2": "cbslocal.com",
+      "FIELD3": "82569",
+      "FIELD4": "6910555",
+      "FIELD5": "7.43",
+      "FIELD6": "7.74",
+      "FIELD7": "vide"
+   },
+   "256": {
+      "FIELD2": "list-manage1.com",
+      "FIELD3": "82308",
+      "FIELD4": "5000017",
+      "FIELD5": "7.44",
+      "FIELD6": "7.90",
+      "FIELD7": "vide"
+   },
+   "257": {
+      "FIELD2": "dribbble.com",
+      "FIELD3": "82178",
+      "FIELD4": "5869663",
+      "FIELD5": "7.56",
+      "FIELD6": "7.26",
+      "FIELD7": "vide"
+   },
+   "258": {
+      "FIELD2": "ed.gov",
+      "FIELD3": "82039",
+      "FIELD4": "51708234",
+      "FIELD5": "7.63",
+      "FIELD6": "8.80",
+      "FIELD7": "vide"
+   },
+   "259": {
+      "FIELD2": "doi.org",
+      "FIELD3": "81856",
+      "FIELD4": "86984594",
+      "FIELD5": "7.67",
+      "FIELD6": "8.01",
+      "FIELD7": "vide"
+   },
+   "260": {
+      "FIELD2": "marriott.com",
+      "FIELD3": "81652",
+      "FIELD4": "18320919",
+      "FIELD5": "7.63",
+      "FIELD6": "7.89",
+      "FIELD7": "vide"
+   },
+   "261": {
+      "FIELD2": "vice.com",
+      "FIELD3": "81360",
+      "FIELD4": "2802977",
+      "FIELD5": "7.38",
+      "FIELD6": "7.46",
+      "FIELD7": "vide"
+   },
+   "262": {
+      "FIELD2": "engadget.com",
+      "FIELD3": "81252",
+      "FIELD4": "10619365",
+      "FIELD5": "7.38",
+      "FIELD6": "7.43",
+      "FIELD7": "vide"
+   },
+   "263": {
+      "FIELD2": "livedoor.jp",
+      "FIELD3": "81167",
+      "FIELD4": "91323980",
+      "FIELD5": "7.39",
+      "FIELD6": "6.96",
+      "FIELD7": "vide"
+   },
+   "264": {
+      "FIELD2": "fb.com",
+      "FIELD3": "80500",
+      "FIELD4": "5547076",
+      "FIELD5": "9.37",
+      "FIELD6": "8.94",
+      "FIELD7": "vide"
+   },
+   "265": {
+      "FIELD2": "umblr.com",
+      "FIELD3": "79919",
+      "FIELD4": "101382381",
+      "FIELD5": "7.87",
+      "FIELD6": "7.66",
+      "FIELD7": "vide"
+   },
+   "266": {
+      "FIELD2": "about.me",
+      "FIELD3": "79866",
+      "FIELD4": "3072093",
+      "FIELD5": "7.30",
+      "FIELD6": "7.27",
+      "FIELD7": "vide"
+   },
+   "267": {
+      "FIELD2": "domraider.io",
+      "FIELD3": "79646",
+      "FIELD4": "1969883",
+      "FIELD5": "7.44",
+      "FIELD6": "7.23",
+      "FIELD7": "vide"
+   },
+   "268": {
+      "FIELD2": "themegrill.com",
+      "FIELD3": "78993",
+      "FIELD4": "8946080",
+      "FIELD5": "7.42",
+      "FIELD6": "7.15",
+      "FIELD7": "vide"
+   },
+   "269": {
+      "FIELD2": "houzz.com",
+      "FIELD3": "78560",
+      "FIELD4": "17645131",
+      "FIELD5": "7.44",
+      "FIELD6": "7.25",
+      "FIELD7": "vide"
+   },
+   "270": {
+      "FIELD2": "state.gov",
+      "FIELD3": "78527",
+      "FIELD4": "2589079",
+      "FIELD5": "7.52",
+      "FIELD6": "8.81",
+      "FIELD7": "vide"
+   },
+   "271": {
+      "FIELD2": "clickbank.net",
+      "FIELD3": "78121",
+      "FIELD4": "11658928",
+      "FIELD5": "7.38",
+      "FIELD6": "6.95",
+      "FIELD7": "vide"
+   },
+   "272": {
+      "FIELD2": "storify.com",
+      "FIELD3": "77813",
+      "FIELD4": "5500960",
+      "FIELD5": "7.38",
+      "FIELD6": "7.72",
+      "FIELD7": "vide"
+   },
+   "273": {
+      "FIELD2": "umich.edu",
+      "FIELD3": "77783",
+      "FIELD4": "5930771",
+      "FIELD5": "7.44",
+      "FIELD6": "8.77",
+      "FIELD7": "vide"
+   },
+   "274": {
+      "FIELD2": "nifty.com",
+      "FIELD3": "77617",
+      "FIELD4": "7588448",
+      "FIELD5": "7.34",
+      "FIELD6": "7.12",
+      "FIELD7": "vide"
+   },
+   "275": {
+      "FIELD2": "google.com.au",
+      "FIELD3": "77491",
+      "FIELD4": "3810018",
+      "FIELD5": "7.56",
+      "FIELD6": "7.41",
+      "FIELD7": "vide"
+   },
+   "276": {
+      "FIELD2": "globo.com",
+      "FIELD3": "77438",
+      "FIELD4": "10151580",
+      "FIELD5": "7.41",
+      "FIELD6": "7.27",
+      "FIELD7": "vide"
+   },
+   "277": {
+      "FIELD2": "unesco.org",
+      "FIELD3": "77393",
+      "FIELD4": "8648418",
+      "FIELD5": "7.49",
+      "FIELD6": "7.83",
+      "FIELD7": "vide"
+   },
+   "278": {
+      "FIELD2": "ok.ru",
+      "FIELD3": "77317",
+      "FIELD4": "35288205",
+      "FIELD5": "7.51",
+      "FIELD6": "6.90",
+      "FIELD7": "vide"
+   },
+   "279": {
+      "FIELD2": "fortune.com",
+      "FIELD3": "76765",
+      "FIELD4": "1643354",
+      "FIELD5": "7.62",
+      "FIELD6": "7.70",
+      "FIELD7": "vide"
+   },
+   "280": {
+      "FIELD2": "google.pl",
+      "FIELD3": "75872",
+      "FIELD4": "3393240",
+      "FIELD5": "7.48",
+      "FIELD6": "6.91",
+      "FIELD7": "vide"
+   },
+   "281": {
+      "FIELD2": "house.gov",
+      "FIELD3": "75815",
+      "FIELD4": "11360815",
+      "FIELD5": "7.48",
+      "FIELD6": "8.80",
+      "FIELD7": "vide"
+   },
+   "282": {
+      "FIELD2": "histats.com",
+      "FIELD3": "74735",
+      "FIELD4": "20499375",
+      "FIELD5": "7.47",
+      "FIELD6": "6.99",
+      "FIELD7": "vide"
+   },
+   "283": {
+      "FIELD2": "theverge.com",
+      "FIELD3": "74386",
+      "FIELD4": "2692160",
+      "FIELD5": "7.44",
+      "FIELD6": "7.49",
+      "FIELD7": "vide"
+   },
+   "284": {
+      "FIELD2": "columbia.edu",
+      "FIELD3": "74006",
+      "FIELD4": "2990108",
+      "FIELD5": "7.49",
+      "FIELD6": "8.77",
+      "FIELD7": "vide"
+   },
+   "285": {
+      "FIELD2": "rs6.net",
+      "FIELD3": "73369",
+      "FIELD4": "5763868",
+      "FIELD5": "7.38",
+      "FIELD6": "7.73",
+      "FIELD7": "vide"
+   },
+   "286": {
+      "FIELD2": "aboutcookies.org",
+      "FIELD3": "73341",
+      "FIELD4": "2477254",
+      "FIELD5": "7.68",
+      "FIELD6": "8.04",
+      "FIELD7": "vide"
+   },
+   "287": {
+      "FIELD2": "ocn.ne.jp",
+      "FIELD3": "73228",
+      "FIELD4": "3997974",
+      "FIELD5": "7.37",
+      "FIELD6": "7.02",
+      "FIELD7": "vide"
+   },
+   "288": {
+      "FIELD2": "yale.edu",
+      "FIELD3": "72989",
+      "FIELD4": "3117180",
+      "FIELD5": "7.46",
+      "FIELD6": "8.76",
+      "FIELD7": "vide"
+   },
+   "289": {
+      "FIELD2": "linksynergy.com",
+      "FIELD3": "72855",
+      "FIELD4": "37541086",
+      "FIELD5": "7.33",
+      "FIELD6": "7.16",
+      "FIELD7": "vide"
+   },
+   "290": {
+      "FIELD2": "wunderground.com",
+      "FIELD3": "72427",
+      "FIELD4": "9341188",
+      "FIELD5": "7.33",
+      "FIELD6": "7.58",
+      "FIELD7": "vide"
+   },
+   "291": {
+      "FIELD2": "gofundme.com",
+      "FIELD3": "72281",
+      "FIELD4": "1466385",
+      "FIELD5": "7.33",
+      "FIELD6": "7.45",
+      "FIELD7": "vide"
+   },
+   "292": {
+      "FIELD2": "1and1.com",
+      "FIELD3": "72104",
+      "FIELD4": "953537",
+      "FIELD5": "7.38",
+      "FIELD6": "7.02",
+      "FIELD7": "vide"
+   },
+   "293": {
+      "FIELD2": "debian.org",
+      "FIELD3": "71818",
+      "FIELD4": "6294603",
+      "FIELD5": "7.79",
+      "FIELD6": "8.77",
+      "FIELD7": "vide"
+   },
+   "294": {
+      "FIELD2": "hilton.com",
+      "FIELD3": "71719",
+      "FIELD4": "7086720",
+      "FIELD5": "7.53",
+      "FIELD6": "7.84",
+      "FIELD7": "vide"
+   },
+   "295": {
+      "FIELD2": "washington.edu",
+      "FIELD3": "71684",
+      "FIELD4": "4263440",
+      "FIELD5": "7.50",
+      "FIELD6": "8.77",
+      "FIELD7": "vide"
+   },
+   "296": {
+      "FIELD2": "upenn.edu",
+      "FIELD3": "71352",
+      "FIELD4": "4531094",
+      "FIELD5": "7.39",
+      "FIELD6": "8.76",
+      "FIELD7": "vide"
+   },
+   "297": {
+      "FIELD2": "goo.ne.jp",
+      "FIELD3": "71232",
+      "FIELD4": "18933585",
+      "FIELD5": "7.32",
+      "FIELD6": "6.96",
+      "FIELD7": "vide"
+   },
+   "298": {
+      "FIELD2": "samsung.com",
+      "FIELD3": "71012",
+      "FIELD4": "5478086",
+      "FIELD5": "7.51",
+      "FIELD6": "7.53",
+      "FIELD7": "vide"
+   },
+   "299": {
+      "FIELD2": "psychologytoday.com",
+      "FIELD3": "71007",
+      "FIELD4": "913818",
+      "FIELD5": "7.35",
+      "FIELD6": "7.40",
+      "FIELD7": "vide"
+   },
+   "300": {
+      "FIELD2": "loopia.se",
+      "FIELD3": "70858",
+      "FIELD4": "371706",
+      "FIELD5": "7.35",
+      "FIELD6": "6.57",
+      "FIELD7": "vide"
+   },
+   "301": {
+      "FIELD2": "loopia.com",
+      "FIELD3": "70736",
+      "FIELD4": "1941629",
+      "FIELD5": "7.35",
+      "FIELD6": "6.58",
+      "FIELD7": "vide"
+   },
+   "302": {
+      "FIELD2": "mijndomein.nl",
+      "FIELD3": "70649",
+      "FIELD4": "880864",
+      "FIELD5": "7.74",
+      "FIELD6": "6.10",
+      "FIELD7": "vide"
+   },
+   "303": {
+      "FIELD2": "indiatimes.com",
+      "FIELD3": "70585",
+      "FIELD4": "123033373",
+      "FIELD5": "7.63",
+      "FIELD6": "8.76",
+      "FIELD7": "vide"
+   },
+   "304": {
+      "FIELD2": "oracle.com",
+      "FIELD3": "70381",
+      "FIELD4": "14224383",
+      "FIELD5": "7.74",
+      "FIELD6": "8.77",
+      "FIELD7": "vide"
+   },
+   "305": {
+      "FIELD2": "visma.com",
+      "FIELD3": "70285",
+      "FIELD4": "640856",
+      "FIELD5": "7.34",
+      "FIELD6": "6.63",
+      "FIELD7": "vide"
+   },
+   "306": {
+      "FIELD2": "fb.me",
+      "FIELD3": "70270",
+      "FIELD4": "10547845",
+      "FIELD5": "7.77",
+      "FIELD6": "7.57",
+      "FIELD7": "vide"
+   },
+   "307": {
+      "FIELD2": "wikihow.com",
+      "FIELD3": "70224",
+      "FIELD4": "1084164",
+      "FIELD5": "7.68",
+      "FIELD6": "7.52",
+      "FIELD7": "vide"
+   },
+   "308": {
+      "FIELD2": "businessweek.com",
+      "FIELD3": "69835",
+      "FIELD4": "1442060",
+      "FIELD5": "7.31",
+      "FIELD6": "7.57",
+      "FIELD7": "vide"
+   },
+   "309": {
+      "FIELD2": "t.me",
+      "FIELD3": "69427",
+      "FIELD4": "23936403",
+      "FIELD5": "7.66",
+      "FIELD6": "7.15",
+      "FIELD7": "vide"
+   },
+   "310": {
+      "FIELD2": "fastcompany.com",
+      "FIELD3": "69252",
+      "FIELD4": "1480187",
+      "FIELD5": "7.56",
+      "FIELD6": "7.65",
+      "FIELD7": "vide"
+   },
+   "311": {
+      "FIELD2": "1and1.fr",
+      "FIELD3": "68645",
+      "FIELD4": "618814",
+      "FIELD5": "7.51",
+      "FIELD6": "6.44",
+      "FIELD7": "vide"
+   },
+   "312": {
+      "FIELD2": "android.com",
+      "FIELD3": "68484",
+      "FIELD4": "9091608",
+      "FIELD5": "8.72",
+      "FIELD6": "8.28",
+      "FIELD7": "vide"
+   },
+   "313": {
+      "FIELD2": "ustream.tv",
+      "FIELD3": "68432",
+      "FIELD4": "4176294",
+      "FIELD5": "7.36",
+      "FIELD6": "7.58",
+      "FIELD7": "vide"
+   },
+   "314": {
+      "FIELD2": "home.pl",
+      "FIELD3": "68430",
+      "FIELD4": "3091906",
+      "FIELD5": "7.61",
+      "FIELD6": "6.66",
+      "FIELD7": "vide"
+   },
+   "315": {
+      "FIELD2": "fbcdn.net",
+      "FIELD3": "68366",
+      "FIELD4": "41712803",
+      "FIELD5": "7.34",
+      "FIELD6": "7.18",
+      "FIELD7": "vide"
+   },
+   "316": {
+      "FIELD2": "senate.gov",
+      "FIELD3": "68146",
+      "FIELD4": "9581877",
+      "FIELD5": "7.50",
+      "FIELD6": "8.78",
+      "FIELD7": "vide"
+   },
+   "317": {
+      "FIELD2": "mailchimp.com",
+      "FIELD3": "67736",
+      "FIELD4": "2849295",
+      "FIELD5": "7.89",
+      "FIELD6": "7.87",
+      "FIELD7": "vide"
+   },
+   "318": {
+      "FIELD2": "dreamhost.com",
+      "FIELD3": "67650",
+      "FIELD4": "1883950",
+      "FIELD5": "7.83",
+      "FIELD6": "7.63",
+      "FIELD7": "vide"
+   },
+   "319": {
+      "FIELD2": "zdnet.com",
+      "FIELD3": "67575",
+      "FIELD4": "9453322",
+      "FIELD5": "7.44",
+      "FIELD6": "7.57",
+      "FIELD7": "vide"
+   },
+   "320": {
+      "FIELD2": "athemes.com",
+      "FIELD3": "67172",
+      "FIELD4": "4585756",
+      "FIELD5": "7.46",
+      "FIELD6": "7.10",
+      "FIELD7": "vide"
+   },
+   "321": {
+      "FIELD2": "sagepub.com",
+      "FIELD3": "66522",
+      "FIELD4": "3211046",
+      "FIELD5": "7.54",
+      "FIELD6": "7.77",
+      "FIELD7": "vide"
+   },
+   "322": {
+      "FIELD2": "scientificamerican.com",
+      "FIELD3": "66513",
+      "FIELD4": "1385179",
+      "FIELD5": "7.37",
+      "FIELD6": "8.75",
+      "FIELD7": "vide"
+   },
+   "323": {
+      "FIELD2": "studiopress.com",
+      "FIELD3": "66262",
+      "FIELD4": "15732683",
+      "FIELD5": "7.32",
+      "FIELD6": "7.19",
+      "FIELD7": "vide"
+   },
+   "324": {
+      "FIELD2": "businesswire.com",
+      "FIELD3": "65575",
+      "FIELD4": "11201475",
+      "FIELD5": "7.58",
+      "FIELD6": "7.79",
+      "FIELD7": "vide"
+   },
+   "325": {
+      "FIELD2": "youronlinechoices.com",
+      "FIELD3": "65510",
+      "FIELD4": "5045698",
+      "FIELD5": "7.65",
+      "FIELD6": "7.44",
+      "FIELD7": "vide"
+   },
+   "326": {
+      "FIELD2": "researchgate.net",
+      "FIELD3": "65346",
+      "FIELD4": "2829405",
+      "FIELD5": "7.44",
+      "FIELD6": "7.68",
+      "FIELD7": "vide"
+   },
+   "327": {
+      "FIELD2": "tucowsdomains.com",
+      "FIELD3": "65245",
+      "FIELD4": "683414",
+      "FIELD5": "7.89",
+      "FIELD6": "7.70",
+      "FIELD7": "vide"
+   },
+   "328": {
+      "FIELD2": "entrepreneur.com",
+      "FIELD3": "65172",
+      "FIELD4": "2093790",
+      "FIELD5": "7.40",
+      "FIELD6": "7.46",
+      "FIELD7": "vide"
+   },
+   "329": {
+      "FIELD2": "umn.edu",
+      "FIELD3": "65055",
+      "FIELD4": "3029715",
+      "FIELD5": "7.41",
+      "FIELD6": "7.82",
+      "FIELD7": "vide"
+   },
+   "330": {
+      "FIELD2": "ucla.edu",
+      "FIELD3": "64911",
+      "FIELD4": "3129171",
+      "FIELD5": "7.34",
+      "FIELD6": "8.76",
+      "FIELD7": "vide"
+   },
+   "331": {
+      "FIELD2": "ftc.gov",
+      "FIELD3": "64598",
+      "FIELD4": "1640361",
+      "FIELD5": "7.77",
+      "FIELD6": "8.80",
+      "FIELD7": "vide"
+   },
+   "332": {
+      "FIELD2": "psu.edu",
+      "FIELD3": "64148",
+      "FIELD4": "4368402",
+      "FIELD5": "7.44",
+      "FIELD6": "8.77",
+      "FIELD7": "vide"
+   },
+   "333": {
+      "FIELD2": "wisc.edu",
+      "FIELD3": "64109",
+      "FIELD4": "18968226",
+      "FIELD5": "7.32",
+      "FIELD6": "8.76",
+      "FIELD7": "vide"
+   },
+   "334": {
+      "FIELD2": "hbr.org",
+      "FIELD3": "64037",
+      "FIELD4": "1560825",
+      "FIELD5": "7.48",
+      "FIELD6": "7.60",
+      "FIELD7": "vide"
+   },
+   "335": {
+      "FIELD2": "inc.com",
+      "FIELD3": "63965",
+      "FIELD4": "1829260",
+      "FIELD5": "7.44",
+      "FIELD6": "7.58",
+      "FIELD7": "vide"
+   },
+   "336": {
+      "FIELD2": "sedo.com",
+      "FIELD3": "63872",
+      "FIELD4": "6278110",
+      "FIELD5": "7.59",
+      "FIELD6": "7.07",
+      "FIELD7": "vide"
+   },
+   "337": {
+      "FIELD2": "sciencemag.org",
+      "FIELD3": "63797",
+      "FIELD4": "3309449",
+      "FIELD5": "7.36",
+      "FIELD6": "8.76",
+      "FIELD7": "vide"
+   },
+   "338": {
+      "FIELD2": "sogou.com",
+      "FIELD3": "63775",
+      "FIELD4": "17413502",
+      "FIELD5": "7.47",
+      "FIELD6": "6.50",
+      "FIELD7": "vide"
+   },
+   "339": {
+      "FIELD2": "ox.ac.uk",
+      "FIELD3": "63544",
+      "FIELD4": "2649000",
+      "FIELD5": "7.42",
+      "FIELD6": "8.76",
+      "FIELD7": "vide"
+   },
+   "340": {
+      "FIELD2": "walmart.com",
+      "FIELD3": "63500",
+      "FIELD4": "2866240",
+      "FIELD5": "7.32",
+      "FIELD6": "7.50",
+      "FIELD7": "vide"
+   },
+   "341": {
+      "FIELD2": "drupal.org",
+      "FIELD3": "63466",
+      "FIELD4": "18945398",
+      "FIELD5": "7.61",
+      "FIELD6": "7.75",
+      "FIELD7": "vide"
+   },
+   "342": {
+      "FIELD2": "google.co.in",
+      "FIELD3": "63421",
+      "FIELD4": "3248420",
+      "FIELD5": "7.55",
+      "FIELD6": "7.34",
+      "FIELD7": "vide"
+   },
+   "343": {
+      "FIELD2": "youku.com",
+      "FIELD3": "63072",
+      "FIELD4": "11097264",
+      "FIELD5": "7.40",
+      "FIELD6": "7.18",
+      "FIELD7": "vide"
+   },
+   "344": {
+      "FIELD2": "utexas.edu",
+      "FIELD3": "63051",
+      "FIELD4": "3233616",
+      "FIELD5": "7.30",
+      "FIELD6": "7.74",
+      "FIELD7": "vide"
+   },
+   "345": {
+      "FIELD2": "tripadvisor.co.uk",
+      "FIELD3": "62722",
+      "FIELD4": "4356012",
+      "FIELD5": "7.49",
+      "FIELD6": "7.26",
+      "FIELD7": "vide"
+   },
+   "346": {
+      "FIELD2": "exblog.jp",
+      "FIELD3": "62561",
+      "FIELD4": "15533344",
+      "FIELD5": "7.34",
+      "FIELD6": "6.92",
+      "FIELD7": "vide"
+   },
+   "347": {
+      "FIELD2": "oup.com",
+      "FIELD3": "62042",
+      "FIELD4": "4898434",
+      "FIELD5": "7.31",
+      "FIELD6": "7.86",
+      "FIELD7": "vide"
+   },
+   "348": {
+      "FIELD2": "mozilla.com",
+      "FIELD3": "61473",
+      "FIELD4": "4435897",
+      "FIELD5": "7.56",
+      "FIELD6": "7.75",
+      "FIELD7": "vide"
+   },
+   "349": {
+      "FIELD2": "prweb.com",
+      "FIELD3": "60835",
+      "FIELD4": "1414778",
+      "FIELD5": "7.32",
+      "FIELD6": "7.53",
+      "FIELD7": "vide"
+   },
+   "350": {
+      "FIELD2": "shinystat.com",
+      "FIELD3": "60781",
+      "FIELD4": "15502610",
+      "FIELD5": "7.44",
+      "FIELD6": "6.81",
+      "FIELD7": "vide"
+   },
+   "351": {
+      "FIELD2": "worldbank.org",
+      "FIELD3": "60758",
+      "FIELD4": "18844651",
+      "FIELD5": "7.52",
+      "FIELD6": "8.77",
+      "FIELD7": "vide"
+   },
+   "352": {
+      "FIELD2": "allaboutcookies.org",
+      "FIELD3": "60581",
+      "FIELD4": "1454888",
+      "FIELD5": "7.73",
+      "FIELD6": "7.60",
+      "FIELD7": "vide"
+   },
+   "353": {
+      "FIELD2": "tandfonline.com",
+      "FIELD3": "60342",
+      "FIELD4": "4675987",
+      "FIELD5": "7.55",
+      "FIELD6": "7.80",
+      "FIELD7": "vide"
+   },
+   "354": {
+      "FIELD2": "stackoverflow.com",
+      "FIELD3": "60092",
+      "FIELD4": "2974734",
+      "FIELD5": "7.64",
+      "FIELD6": "7.59",
+      "FIELD7": "vide"
+   },
+   "355": {
+      "FIELD2": "si.edu",
+      "FIELD3": "59982",
+      "FIELD4": "3310346",
+      "FIELD5": "7.34",
+      "FIELD6": "8.76",
+      "FIELD7": "vide"
+   },
+   "356": {
+      "FIELD2": "census.gov",
+      "FIELD3": "59960",
+      "FIELD4": "2283668",
+      "FIELD5": "7.41",
+      "FIELD6": "7.97",
+      "FIELD7": "vide"
+   },
+   "357": {
+      "FIELD2": "jugem.jp",
+      "FIELD3": "59941",
+      "FIELD4": "18385169",
+      "FIELD5": "7.34",
+      "FIELD6": "6.79",
+      "FIELD7": "vide"
+   },
+   "358": {
+      "FIELD2": "princeton.edu",
+      "FIELD3": "59228",
+      "FIELD4": "27896666",
+      "FIELD5": "7.31",
+      "FIELD6": "8.76",
+      "FIELD7": "vide"
+   },
+   "359": {
+      "FIELD2": "intel.com",
+      "FIELD3": "59080",
+      "FIELD4": "3488484",
+      "FIELD5": "7.51",
+      "FIELD6": "8.75",
+      "FIELD7": "vide"
+   },
+   "360": {
+      "FIELD2": "hubspot.com",
+      "FIELD3": "58780",
+      "FIELD4": "39052599",
+      "FIELD5": "7.76",
+      "FIELD6": "7.70",
+      "FIELD7": "vide"
+   },
+   "361": {
+      "FIELD2": "usgs.gov",
+      "FIELD3": "58706",
+      "FIELD4": "9247518",
+      "FIELD5": "7.34",
+      "FIELD6": "7.92",
+      "FIELD7": "vide"
+   },
+   "362": {
+      "FIELD2": "mysql.com",
+      "FIELD3": "58407",
+      "FIELD4": "15502455",
+      "FIELD5": "7.53",
+      "FIELD6": "8.75",
+      "FIELD7": "vide"
+   },
+   "363": {
+      "FIELD2": "networkadvertising.org",
+      "FIELD3": "57824",
+      "FIELD4": "1322616",
+      "FIELD5": "7.82",
+      "FIELD6": "7.95",
+      "FIELD7": "vide"
+   },
+   "364": {
+      "FIELD2": "politico.com",
+      "FIELD3": "57790",
+      "FIELD4": "4792963",
+      "FIELD5": "7.33",
+      "FIELD6": "7.67",
+      "FIELD7": "vide"
+   },
+   "365": {
+      "FIELD2": "archives.gov",
+      "FIELD3": "57715",
+      "FIELD4": "1643964",
+      "FIELD5": "7.37",
+      "FIELD6": "7.95",
+      "FIELD7": "vide"
+   },
+   "366": {
+      "FIELD2": "nazwa.pl",
+      "FIELD3": "57387",
+      "FIELD4": "2947479",
+      "FIELD5": "7.56",
+      "FIELD6": "6.46",
+      "FIELD7": "vide"
+   },
+   "367": {
+      "FIELD2": "office.com",
+      "FIELD3": "57110",
+      "FIELD4": "10285600",
+      "FIELD5": "8.23",
+      "FIELD6": "7.90",
+      "FIELD7": "vide"
+   },
+   "368": {
+      "FIELD2": "cisco.com",
+      "FIELD3": "56400",
+      "FIELD4": "3059856",
+      "FIELD5": "7.46",
+      "FIELD6": "8.75",
+      "FIELD7": "vide"
+   },
+   "369": {
+      "FIELD2": "cam.ac.uk",
+      "FIELD3": "56392",
+      "FIELD4": "4460232",
+      "FIELD5": "7.43",
+      "FIELD6": "8.76",
+      "FIELD7": "vide"
+   },
+   "370": {
+      "FIELD2": "example.com",
+      "FIELD3": "55931",
+      "FIELD4": "2678944",
+      "FIELD5": "7.51",
+      "FIELD6": "7.48",
+      "FIELD7": "vide"
+   },
+   "371": {
+      "FIELD2": "zendesk.com",
+      "FIELD3": "55871",
+      "FIELD4": "35597026",
+      "FIELD5": "8.02",
+      "FIELD6": "7.93",
+      "FIELD7": "vide"
+   },
+   "372": {
+      "FIELD2": "nyu.edu",
+      "FIELD3": "55704",
+      "FIELD4": "1994442",
+      "FIELD5": "7.42",
+      "FIELD6": "7.65",
+      "FIELD7": "vide"
+   },
+   "373": {
+      "FIELD2": "hollywoodreporter.com",
+      "FIELD3": "55492",
+      "FIELD4": "3990471",
+      "FIELD5": "7.35",
+      "FIELD6": "7.34",
+      "FIELD7": "vide"
+   },
+   "374": {
+      "FIELD2": "hhs.gov",
+      "FIELD3": "55090",
+      "FIELD4": "4904495",
+      "FIELD5": "7.55",
+      "FIELD6": "8.81",
+      "FIELD7": "vide"
+   },
+   "375": {
+      "FIELD2": "box.com",
+      "FIELD3": "55089",
+      "FIELD4": "2855686",
+      "FIELD5": "7.50",
+      "FIELD6": "7.62",
+      "FIELD7": "vide"
+   },
+   "376": {
+      "FIELD2": "accuweather.com",
+      "FIELD3": "55007",
+      "FIELD4": "8918771",
+      "FIELD5": "7.77",
+      "FIELD6": "7.62",
+      "FIELD7": "vide"
+   },
+   "377": {
+      "FIELD2": "campaign-archive1.com",
+      "FIELD3": "54972",
+      "FIELD4": "2578848",
+      "FIELD5": "7.31",
+      "FIELD6": "7.62",
+      "FIELD7": "vide"
+   },
+   "378": {
+      "FIELD2": "admin.ch",
+      "FIELD3": "54458",
+      "FIELD4": "5151053",
+      "FIELD5": "7.40",
+      "FIELD6": "8.76",
+      "FIELD7": "vide"
+   },
+   "379": {
+      "FIELD2": "netflix.com",
+      "FIELD3": "54348",
+      "FIELD4": "7009836",
+      "FIELD5": "7.34",
+      "FIELD6": "7.33",
+      "FIELD7": "vide"
+   },
+   "380": {
+      "FIELD2": "nhk.or.jp",
+      "FIELD3": "54303",
+      "FIELD4": "3982834",
+      "FIELD5": "7.35",
+      "FIELD6": "7.12",
+      "FIELD7": "vide"
+   },
+   "381": {
+      "FIELD2": "dedecms.com",
+      "FIELD3": "54275",
+      "FIELD4": "5139019",
+      "FIELD5": "7.50",
+      "FIELD6": "6.32",
+      "FIELD7": "vide"
+   },
+   "382": {
+      "FIELD2": "variety.com",
+      "FIELD3": "53971",
+      "FIELD4": "9237973",
+      "FIELD5": "7.30",
+      "FIELD6": "7.38",
+      "FIELD7": "vide"
+   },
+   "383": {
+      "FIELD2": "twitch.tv",
+      "FIELD3": "53910",
+      "FIELD4": "12726867",
+      "FIELD5": "7.40",
+      "FIELD6": "7.14",
+      "FIELD7": "vide"
+   },
+   "384": {
+      "FIELD2": "ebay.co.uk",
+      "FIELD3": "53896",
+      "FIELD4": "2982894",
+      "FIELD5": "7.32",
+      "FIELD6": "7.02",
+      "FIELD7": "vide"
+   },
+   "385": {
+      "FIELD2": "uchicago.edu",
+      "FIELD3": "53787",
+      "FIELD4": "4161996",
+      "FIELD5": "7.38",
+      "FIELD6": "8.76",
+      "FIELD7": "vide"
+   },
+   "386": {
+      "FIELD2": "shop-pro.jp",
+      "FIELD3": "53721",
+      "FIELD4": "33870684",
+      "FIELD5": "7.54",
+      "FIELD6": "6.89",
+      "FIELD7": "vide"
+   },
+   "387": {
+      "FIELD2": "bmj.com",
+      "FIELD3": "53676",
+      "FIELD4": "1859206",
+      "FIELD5": "7.32",
+      "FIELD6": "7.60",
+      "FIELD7": "vide"
+   },
+   "388": {
+      "FIELD2": "teamviewer.com",
+      "FIELD3": "53642",
+      "FIELD4": "2203721",
+      "FIELD5": "7.57",
+      "FIELD6": "7.21",
+      "FIELD7": "vide"
+   },
+   "389": {
+      "FIELD2": "bls.gov",
+      "FIELD3": "53429",
+      "FIELD4": "1251023",
+      "FIELD5": "7.40",
+      "FIELD6": "7.82",
+      "FIELD7": "vide"
+   },
+   "390": {
+      "FIELD2": "1688.com",
+      "FIELD3": "53118",
+      "FIELD4": "26635492",
+      "FIELD5": "7.35",
+      "FIELD6": "6.31",
+      "FIELD7": "vide"
+   },
+   "391": {
+      "FIELD2": "hibu.com",
+      "FIELD3": "53082",
+      "FIELD4": "1077443",
+      "FIELD5": "7.31",
+      "FIELD6": "6.77",
+      "FIELD7": "vide"
+   },
+   "392": {
+      "FIELD2": "eventbrite.co.uk",
+      "FIELD3": "52658",
+      "FIELD4": "3762232",
+      "FIELD5": "7.43",
+      "FIELD6": "7.57",
+      "FIELD7": "vide"
+   },
+   "393": {
+      "FIELD2": "usc.edu",
+      "FIELD3": "52604",
+      "FIELD4": "7703940",
+      "FIELD5": "7.32",
+      "FIELD6": "7.61",
+      "FIELD7": "vide"
+   },
+   "394": {
+      "FIELD2": "oxfordjournals.org",
+      "FIELD3": "51837",
+      "FIELD4": "3424462",
+      "FIELD5": "7.40",
+      "FIELD6": "7.73",
+      "FIELD7": "vide"
+   },
+   "395": {
+      "FIELD2": "colorlib.com",
+      "FIELD3": "51783",
+      "FIELD4": "3962264",
+      "FIELD5": "7.33",
+      "FIELD6": "7.09",
+      "FIELD7": "vide"
+   },
+   "396": {
+      "FIELD2": "prestashop.com",
+      "FIELD3": "51770",
+      "FIELD4": "4667560",
+      "FIELD5": "7.45",
+      "FIELD6": "6.88",
+      "FIELD7": "vide"
+   },
+   "397": {
+      "FIELD2": "usa.gov",
+      "FIELD3": "51743",
+      "FIELD4": "11798968",
+      "FIELD5": "7.63",
+      "FIELD6": "8.85",
+      "FIELD7": "vide"
+   },
+   "398": {
+      "FIELD2": "www.nhs.uk",
+      "FIELD3": "51725",
+      "FIELD4": "7017647",
+      "FIELD5": "7.31",
+      "FIELD6": "7.51",
+      "FIELD7": "vide"
+   },
+   "399": {
+      "FIELD2": "oecd.org",
+      "FIELD3": "51687",
+      "FIELD4": "3541005",
+      "FIELD5": "7.48",
+      "FIELD6": "7.86",
+      "FIELD7": "vide"
+   },
+   "400": {
+      "FIELD2": "va.gov",
+      "FIELD3": "51660",
+      "FIELD4": "2614947",
+      "FIELD5": "7.36",
+      "FIELD6": "8.78",
+      "FIELD7": "vide"
+   },
+   "401": {
+      "FIELD2": "istockphoto.com",
+      "FIELD3": "51640",
+      "FIELD4": "4773379",
+      "FIELD5": "7.30",
+      "FIELD6": "7.14",
+      "FIELD7": "vide"
+   },
+   "402": {
+      "FIELD2": "hostgator.com",
+      "FIELD3": "51543",
+      "FIELD4": "2370902",
+      "FIELD5": "7.49",
+      "FIELD6": "6.91",
+      "FIELD7": "vide"
+   },
+   "403": {
+      "FIELD2": "opensource.org",
+      "FIELD3": "51430",
+      "FIELD4": "1709423",
+      "FIELD5": "7.44",
+      "FIELD6": "8.75",
+      "FIELD7": "vide"
+   },
+   "404": {
+      "FIELD2": "cmu.edu",
+      "FIELD3": "51344",
+      "FIELD4": "1295171",
+      "FIELD5": "7.48",
+      "FIELD6": "7.73",
+      "FIELD7": "vide"
+   },
+   "405": {
+      "FIELD2": "mlb.com",
+      "FIELD3": "51175",
+      "FIELD4": "13314087",
+      "FIELD5": "7.42",
+      "FIELD6": "7.57",
+      "FIELD7": "vide"
+   },
+   "406": {
+      "FIELD2": "wsimg.com",
+      "FIELD3": "50907",
+      "FIELD4": "635176",
+      "FIELD5": "7.49",
+      "FIELD6": "7.55",
+      "FIELD7": "vide"
+   },
+   "407": {
+      "FIELD2": "dell.com",
+      "FIELD3": "50819",
+      "FIELD4": "5048327",
+      "FIELD5": "7.30",
+      "FIELD6": "7.95",
+      "FIELD7": "vide"
+   },
+   "408": {
+      "FIELD2": "redcross.org",
+      "FIELD3": "50717",
+      "FIELD4": "1457044",
+      "FIELD5": "7.43",
+      "FIELD6": "7.87",
+      "FIELD7": "vide"
+   },
+   "409": {
+      "FIELD2": "ieee.org",
+      "FIELD3": "50102",
+      "FIELD4": "5244299",
+      "FIELD5": "7.36",
+      "FIELD6": "8.76",
+      "FIELD7": "vide"
+   },
+   "410": {
+      "FIELD2": "dictionary.com",
+      "FIELD3": "49782",
+      "FIELD4": "4177084",
+      "FIELD5": "7.58",
+      "FIELD6": "7.33",
+      "FIELD7": "vide"
+   },
+   "411": {
+      "FIELD2": "icann.org",
+      "FIELD3": "49351",
+      "FIELD4": "3942742",
+      "FIELD5": "8.26",
+      "FIELD6": "8.77",
+      "FIELD7": "vide"
+   },
+   "412": {
+      "FIELD2": "adweek.com",
+      "FIELD3": "49014",
+      "FIELD4": "3867135",
+      "FIELD5": "7.61",
+      "FIELD6": "7.45",
+      "FIELD7": "vide"
+   },
+   "413": {
+      "FIELD2": "zenfolio.com",
+      "FIELD3": "48894",
+      "FIELD4": "9230263",
+      "FIELD5": "7.41",
+      "FIELD6": "7.21",
+      "FIELD7": "vide"
+   },
+   "414": {
+      "FIELD2": "google.ch",
+      "FIELD3": "48821",
+      "FIELD4": "1784353",
+      "FIELD5": "7.36",
+      "FIELD6": "7.11",
+      "FIELD7": "vide"
+   },
+   "415": {
+      "FIELD2": "livestream.com",
+      "FIELD3": "48396",
+      "FIELD4": "3330777",
+      "FIELD5": "7.35",
+      "FIELD6": "7.61",
+      "FIELD7": "vide"
+   },
+   "416": {
+      "FIELD2": "nginx.org",
+      "FIELD3": "48375",
+      "FIELD4": "870881",
+      "FIELD5": "7.83",
+      "FIELD6": "7.70",
+      "FIELD7": "vide"
+   },
+   "417": {
+      "FIELD2": "domainnameshop.com",
+      "FIELD3": "48257",
+      "FIELD4": "266043",
+      "FIELD5": "7.53",
+      "FIELD6": "6.67",
+      "FIELD7": "vide"
+   },
+   "418": {
+      "FIELD2": "dot.gov",
+      "FIELD3": "48041",
+      "FIELD4": "4201859",
+      "FIELD5": "7.35",
+      "FIELD6": "8.78",
+      "FIELD7": "vide"
+   },
+   "419": {
+      "FIELD2": "directdomains.com",
+      "FIELD3": "47712",
+      "FIELD4": "56196",
+      "FIELD5": "7.49",
+      "FIELD6": "6.58",
+      "FIELD7": "vide"
+   },
+   "420": {
+      "FIELD2": "xiti.com",
+      "FIELD3": "47647",
+      "FIELD4": "13395583",
+      "FIELD5": "7.52",
+      "FIELD6": "6.84",
+      "FIELD7": "vide"
+   },
+   "421": {
+      "FIELD2": "steampowered.com",
+      "FIELD3": "47508",
+      "FIELD4": "36952516",
+      "FIELD5": "7.31",
+      "FIELD6": "7.15",
+      "FIELD7": "vide"
+   },
+   "422": {
+      "FIELD2": "umd.edu",
+      "FIELD3": "47495",
+      "FIELD4": "1507238",
+      "FIELD5": "7.30",
+      "FIELD6": "7.72",
+      "FIELD7": "vide"
+   },
+   "423": {
+      "FIELD2": "fao.org",
+      "FIELD3": "47045",
+      "FIELD4": "4339407",
+      "FIELD5": "7.39",
+      "FIELD6": "7.70",
+      "FIELD7": "vide"
+   },
+   "424": {
+      "FIELD2": "aliyun.com",
+      "FIELD3": "47036",
+      "FIELD4": "4681205",
+      "FIELD5": "7.46",
+      "FIELD6": "6.76",
+      "FIELD7": "vide"
+   },
+   "425": {
+      "FIELD2": "att.com",
+      "FIELD3": "46639",
+      "FIELD4": "2676101",
+      "FIELD5": "7.37",
+      "FIELD6": "7.65",
+      "FIELD7": "vide"
+   },
+   "426": {
+      "FIELD2": "venturebeat.com",
+      "FIELD3": "46294",
+      "FIELD4": "3016174",
+      "FIELD5": "7.44",
+      "FIELD6": "7.39",
+      "FIELD7": "vide"
+   },
+   "427": {
+      "FIELD2": "domeneshop.no",
+      "FIELD3": "46109",
+      "FIELD4": "88759",
+      "FIELD5": "7.32",
+      "FIELD6": "6.36",
+      "FIELD7": "vide"
+   },
+   "428": {
+      "FIELD2": "symantec.com",
+      "FIELD3": "46105",
+      "FIELD4": "9994098",
+      "FIELD5": "7.60",
+      "FIELD6": "7.62",
+      "FIELD7": "vide"
+   },
+   "429": {
+      "FIELD2": "gesetze-im-internet.de",
+      "FIELD3": "46010",
+      "FIELD4": "1704220",
+      "FIELD5": "7.31",
+      "FIELD6": "7.67",
+      "FIELD7": "vide"
+   },
+   "430": {
+      "FIELD2": "bund.de",
+      "FIELD3": "45907",
+      "FIELD4": "2655796",
+      "FIELD5": "7.42",
+      "FIELD6": "7.88",
+      "FIELD7": "vide"
+   },
+   "431": {
+      "FIELD2": "duke.edu",
+      "FIELD3": "45626",
+      "FIELD4": "1624616",
+      "FIELD5": "7.32",
+      "FIELD6": "7.67",
+      "FIELD7": "vide"
+   },
+   "432": {
+      "FIELD2": "sun.com",
+      "FIELD3": "45389",
+      "FIELD4": "4115072",
+      "FIELD5": "7.43",
+      "FIELD6": "7.65",
+      "FIELD7": "vide"
+   },
+   "433": {
+      "FIELD2": "justgiving.com",
+      "FIELD3": "44763",
+      "FIELD4": "2094004",
+      "FIELD5": "7.41",
+      "FIELD6": "7.35",
+      "FIELD7": "vide"
+   },
+   "434": {
+      "FIELD2": "biomedcentral.com",
+      "FIELD3": "44633",
+      "FIELD4": "4073644",
+      "FIELD5": "7.49",
+      "FIELD6": "7.76",
+      "FIELD7": "vide"
+   },
+   "435": {
+      "FIELD2": "giphy.com",
+      "FIELD3": "44534",
+      "FIELD4": "2002652",
+      "FIELD5": "7.41",
+      "FIELD6": "7.29",
+      "FIELD7": "vide"
+   },
+   "436": {
+      "FIELD2": "netscape.com",
+      "FIELD3": "44383",
+      "FIELD4": "2252637",
+      "FIELD5": "7.34",
+      "FIELD6": "7.50",
+      "FIELD7": "vide"
+   },
+   "437": {
+      "FIELD2": "snapchat.com",
+      "FIELD3": "44152",
+      "FIELD4": "22435919",
+      "FIELD5": "7.63",
+      "FIELD6": "7.62",
+      "FIELD7": "vide"
+   },
+   "438": {
+      "FIELD2": "reference.com",
+      "FIELD3": "44040",
+      "FIELD4": "2567940",
+      "FIELD5": "7.59",
+      "FIELD6": "7.41",
+      "FIELD7": "vide"
+   },
+   "439": {
+      "FIELD2": "gpo.gov",
+      "FIELD3": "43994",
+      "FIELD4": "3890026",
+      "FIELD5": "7.43",
+      "FIELD6": "8.11",
+      "FIELD7": "vide"
+   },
+   "440": {
+      "FIELD2": "sec.gov",
+      "FIELD3": "43878",
+      "FIELD4": "3071662",
+      "FIELD5": "7.62",
+      "FIELD6": "7.92",
+      "FIELD7": "vide"
+   },
+   "441": {
+      "FIELD2": "pnas.org",
+      "FIELD3": "43760",
+      "FIELD4": "1019525",
+      "FIELD5": "7.33",
+      "FIELD6": "7.62",
+      "FIELD7": "vide"
+   },
+   "442": {
+      "FIELD2": "elsevier.com",
+      "FIELD3": "43696",
+      "FIELD4": "4358366",
+      "FIELD5": "7.35",
+      "FIELD6": "8.76",
+      "FIELD7": "vide"
+   },
+   "443": {
+      "FIELD2": "ietf.org",
+      "FIELD3": "43613",
+      "FIELD4": "3551993",
+      "FIELD5": "7.75",
+      "FIELD6": "8.76",
+      "FIELD7": "vide"
+   },
+   "444": {
+      "FIELD2": "japanpost.jp",
+      "FIELD3": "43485",
+      "FIELD4": "1627333",
+      "FIELD5": "7.62",
+      "FIELD6": "7.11",
+      "FIELD7": "vide"
+   },
+   "445": {
+      "FIELD2": "plos.org",
+      "FIELD3": "43403",
+      "FIELD4": "1419198",
+      "FIELD5": "7.58",
+      "FIELD6": "7.88",
+      "FIELD7": "vide"
+   },
+   "446": {
+      "FIELD2": "windowsphone.com",
+      "FIELD3": "43266",
+      "FIELD4": "9167317",
+      "FIELD5": "8.71",
+      "FIELD6": "8.24",
+      "FIELD7": "vide"
+   },
+   "447": {
+      "FIELD2": "squareup.com",
+      "FIELD3": "43151",
+      "FIELD4": "1652532",
+      "FIELD5": "7.30",
+      "FIELD6": "7.37",
+      "FIELD7": "vide"
+   },
+   "448": {
+      "FIELD2": "mhlw.go.jp",
+      "FIELD3": "42924",
+      "FIELD4": "3849733",
+      "FIELD5": "7.51",
+      "FIELD6": "7.34",
+      "FIELD7": "vide"
+   },
+   "449": {
+      "FIELD2": "ny.gov",
+      "FIELD3": "42633",
+      "FIELD4": "1757537",
+      "FIELD5": "7.30",
+      "FIELD6": "8.77",
+      "FIELD7": "vide"
+   },
+   "450": {
+      "FIELD2": "aboutads.info",
+      "FIELD3": "42464",
+      "FIELD4": "5944734",
+      "FIELD5": "7.71",
+      "FIELD6": "7.67",
+      "FIELD7": "vide"
+   },
+   "451": {
+      "FIELD2": "ewebdevelopment.com",
+      "FIELD3": "42442",
+      "FIELD4": "171649",
+      "FIELD5": "7.55",
+      "FIELD6": "6.46",
+      "FIELD7": "vide"
+   },
+   "452": {
+      "FIELD2": "iubenda.com",
+      "FIELD3": "42105",
+      "FIELD4": "9649237",
+      "FIELD5": "7.38",
+      "FIELD6": "7.01",
+      "FIELD7": "vide"
+   },
+   "453": {
+      "FIELD2": "oreilly.com",
+      "FIELD3": "41915",
+      "FIELD4": "5227240",
+      "FIELD5": "7.40",
+      "FIELD6": "8.75",
+      "FIELD7": "vide"
+   },
+   "454": {
+      "FIELD2": "gotowebinar.com",
+      "FIELD3": "41856",
+      "FIELD4": "4531934",
+      "FIELD5": "7.59",
+      "FIELD6": "8.00",
+      "FIELD7": "vide"
+   },
+   "455": {
+      "FIELD2": "libsyn.com",
+      "FIELD3": "41793",
+      "FIELD4": "10775510",
+      "FIELD5": "7.31",
+      "FIELD6": "7.33",
+      "FIELD7": "vide"
+   },
+   "456": {
+      "FIELD2": "thenextweb.com",
+      "FIELD3": "41121",
+      "FIELD4": "1383259",
+      "FIELD5": "7.39",
+      "FIELD6": "7.34",
+      "FIELD7": "vide"
+   },
+   "457": {
+      "FIELD2": "warnerbros.com",
+      "FIELD3": "41050",
+      "FIELD4": "1685343",
+      "FIELD5": "7.39",
+      "FIELD6": "7.23",
+      "FIELD7": "vide"
+   },
+   "458": {
+      "FIELD2": "deloitte.com",
+      "FIELD3": "40991",
+      "FIELD4": "1867909",
+      "FIELD5": "7.76",
+      "FIELD6": "7.64",
+      "FIELD7": "vide"
+   },
+   "459": {
+      "FIELD2": "blackberry.com",
+      "FIELD3": "40606",
+      "FIELD4": "4434774",
+      "FIELD5": "7.52",
+      "FIELD6": "7.45",
+      "FIELD7": "vide"
+   },
+   "460": {
+      "FIELD2": "googleapis.com",
+      "FIELD3": "39824",
+      "FIELD4": "283136586",
+      "FIELD5": "7.33",
+      "FIELD6": "7.38",
+      "FIELD7": "vide"
+   },
+   "461": {
+      "FIELD2": "dol.gov",
+      "FIELD3": "39810",
+      "FIELD4": "3246756",
+      "FIELD5": "7.44",
+      "FIELD6": "8.79",
+      "FIELD7": "vide"
+   },
+   "462": {
+      "FIELD2": "arxiv.org",
+      "FIELD3": "39784",
+      "FIELD4": "5744209",
+      "FIELD5": "7.47",
+      "FIELD6": "8.75",
+      "FIELD7": "vide"
+   },
+   "463": {
+      "FIELD2": "tmall.com",
+      "FIELD3": "39662",
+      "FIELD4": "13957213",
+      "FIELD5": "7.34",
+      "FIELD6": "6.93",
+      "FIELD7": "vide"
+   },
+   "464": {
+      "FIELD2": "web.de",
+      "FIELD3": "39644",
+      "FIELD4": "527153",
+      "FIELD5": "7.33",
+      "FIELD6": "6.66",
+      "FIELD7": "vide"
+   },
+   "465": {
+      "FIELD2": "ename.com.cn",
+      "FIELD3": "39503",
+      "FIELD4": "50100",
+      "FIELD5": "7.42",
+      "FIELD6": "6.39",
+      "FIELD7": "vide"
+   },
+   "466": {
+      "FIELD2": "justice.gov",
+      "FIELD3": "38772",
+      "FIELD4": "1435188",
+      "FIELD5": "7.50",
+      "FIELD6": "8.80",
+      "FIELD7": "vide"
+   },
+   "467": {
+      "FIELD2": "bigcommerce.com",
+      "FIELD3": "38386",
+      "FIELD4": "9695106",
+      "FIELD5": "7.49",
+      "FIELD6": "7.35",
+      "FIELD7": "vide"
+   },
+   "468": {
+      "FIELD2": "moz.com",
+      "FIELD3": "38342",
+      "FIELD4": "909947",
+      "FIELD5": "7.33",
+      "FIELD6": "7.19",
+      "FIELD7": "vide"
+   },
+   "469": {
+      "FIELD2": "dhs.gov",
+      "FIELD3": "38326",
+      "FIELD4": "1286958",
+      "FIELD5": "7.52",
+      "FIELD6": "8.79",
+      "FIELD7": "vide"
+   },
+   "470": {
+      "FIELD2": "python.org",
+      "FIELD3": "38195",
+      "FIELD4": "2748213",
+      "FIELD5": "7.51",
+      "FIELD6": "8.76",
+      "FIELD7": "vide"
+   },
+   "471": {
+      "FIELD2": "java.com",
+      "FIELD3": "37585",
+      "FIELD4": "986286",
+      "FIELD5": "7.45",
+      "FIELD6": "7.64",
+      "FIELD7": "vide"
+   },
+   "472": {
+      "FIELD2": "iso.org",
+      "FIELD3": "37171",
+      "FIELD4": "1410322",
+      "FIELD5": "7.45",
+      "FIELD6": "7.70",
+      "FIELD7": "vide"
+   },
+   "473": {
+      "FIELD2": "g.co",
+      "FIELD3": "37171",
+      "FIELD4": "3199216",
+      "FIELD5": "7.32",
+      "FIELD6": "7.31",
+      "FIELD7": "vide"
+   },
+   "474": {
+      "FIELD2": "fcc.gov",
+      "FIELD3": "36956",
+      "FIELD4": "27386182",
+      "FIELD5": "7.32",
+      "FIELD6": "8.78",
+      "FIELD7": "vide"
+   },
+   "475": {
+      "FIELD2": "playstation.com",
+      "FIELD3": "36766",
+      "FIELD4": "5049649",
+      "FIELD5": "7.31",
+      "FIELD6": "7.11",
+      "FIELD7": "vide"
+   },
+   "476": {
+      "FIELD2": "unicef.org",
+      "FIELD3": "36452",
+      "FIELD4": "1880293",
+      "FIELD5": "7.76",
+      "FIELD6": "7.75",
+      "FIELD7": "vide"
+   },
+   "477": {
+      "FIELD2": "nginx.com",
+      "FIELD3": "36370",
+      "FIELD4": "1034548",
+      "FIELD5": "7.74",
+      "FIELD6": "7.60",
+      "FIELD7": "vide"
+   },
+   "478": {
+      "FIELD2": "quantcast.com",
+      "FIELD3": "36260",
+      "FIELD4": "17812559",
+      "FIELD5": "7.31",
+      "FIELD6": "7.24",
+      "FIELD7": "vide"
+   },
+   "479": {
+      "FIELD2": "nist.gov",
+      "FIELD3": "36222",
+      "FIELD4": "4539672",
+      "FIELD5": "7.38",
+      "FIELD6": "8.77",
+      "FIELD7": "vide"
+   },
+   "480": {
+      "FIELD2": "siteorigin.com",
+      "FIELD3": "36107",
+      "FIELD4": "1245890",
+      "FIELD5": "7.32",
+      "FIELD6": "7.25",
+      "FIELD7": "vide"
+   },
+   "481": {
+      "FIELD2": "usps.com",
+      "FIELD3": "36076",
+      "FIELD4": "910003",
+      "FIELD5": "7.30",
+      "FIELD6": "7.69",
+      "FIELD7": "vide"
+   },
+   "482": {
+      "FIELD2": "msdn.com",
+      "FIELD3": "36012",
+      "FIELD4": "2640577",
+      "FIELD5": "8.19",
+      "FIELD6": "7.77",
+      "FIELD7": "vide"
+   },
+   "483": {
+      "FIELD2": "enom.com",
+      "FIELD3": "35230",
+      "FIELD4": "73286",
+      "FIELD5": "7.76",
+      "FIELD6": "7.61",
+      "FIELD7": "vide"
+   },
+   "484": {
+      "FIELD2": "bitbucket.org",
+      "FIELD3": "35130",
+      "FIELD4": "4973048",
+      "FIELD5": "7.32",
+      "FIELD6": "7.47",
+      "FIELD7": "vide"
+   },
+   "485": {
+      "FIELD2": "moodle.org",
+      "FIELD3": "34865",
+      "FIELD4": "3251957",
+      "FIELD5": "7.40",
+      "FIELD6": "7.45",
+      "FIELD7": "vide"
+   },
+   "486": {
+      "FIELD2": "opencart.com",
+      "FIELD3": "34829",
+      "FIELD4": "2493753",
+      "FIELD5": "7.49",
+      "FIELD6": "6.90",
+      "FIELD7": "vide"
+   },
+   "487": {
+      "FIELD2": "starwoodhotels.com",
+      "FIELD3": "34478",
+      "FIELD4": "37511626",
+      "FIELD5": "7.46",
+      "FIELD6": "7.62",
+      "FIELD7": "vide"
+   },
+   "488": {
+      "FIELD2": "gartner.com",
+      "FIELD3": "34160",
+      "FIELD4": "622273",
+      "FIELD5": "7.36",
+      "FIELD6": "7.55",
+      "FIELD7": "vide"
+   },
+   "489": {
+      "FIELD2": "mlit.go.jp",
+      "FIELD3": "33923",
+      "FIELD4": "2063085",
+      "FIELD5": "7.40",
+      "FIELD6": "7.18",
+      "FIELD7": "vide"
+   },
+   "490": {
+      "FIELD2": "sedoparking.com",
+      "FIELD3": "33866",
+      "FIELD4": "172235",
+      "FIELD5": "7.34",
+      "FIELD6": "6.69",
+      "FIELD7": "vide"
+   },
+   "491": {
+      "FIELD2": "unsplash.com",
+      "FIELD3": "33797",
+      "FIELD4": "636773",
+      "FIELD5": "7.30",
+      "FIELD6": "7.24",
+      "FIELD7": "vide"
+   },
+   "492": {
+      "FIELD2": "azurewebsites.net",
+      "FIELD3": "33156",
+      "FIELD4": "3137311",
+      "FIELD5": "7.31",
+      "FIELD6": "7.34",
+      "FIELD7": "vide"
+   },
+   "493": {
+      "FIELD2": "acm.org",
+      "FIELD3": "32954",
+      "FIELD4": "2895117",
+      "FIELD5": "7.41",
+      "FIELD6": "8.75",
+      "FIELD7": "vide"
+   },
+   "494": {
+      "FIELD2": "typeform.com",
+      "FIELD3": "32615",
+      "FIELD4": "4231739",
+      "FIELD5": "7.80",
+      "FIELD6": "7.60",
+      "FIELD7": "vide"
+   },
+   "495": {
+      "FIELD2": "mynavi.jp",
+      "FIELD3": "32200",
+      "FIELD4": "2756902",
+      "FIELD5": "7.56",
+      "FIELD6": "7.14",
+      "FIELD7": "vide"
+   },
+   "496": {
+      "FIELD2": "etracker.de",
+      "FIELD3": "32059",
+      "FIELD4": "5640381",
+      "FIELD5": "7.37",
+      "FIELD6": "6.82",
+      "FIELD7": "vide"
+   },
+   "497": {
+      "FIELD2": "detik.com",
+      "FIELD3": "32039",
+      "FIELD4": "692230",
+      "FIELD5": "7.32",
+      "FIELD6": "6.32",
+      "FIELD7": "vide"
+   },
+   "498": {
+      "FIELD2": "xbox.com",
+      "FIELD3": "31721",
+      "FIELD4": "4583258",
+      "FIELD5": "8.17",
+      "FIELD6": "7.67",
+      "FIELD7": "vide"
+   },
+   "499": {
+      "FIELD2": "techtarget.com",
+      "FIELD3": "31720",
+      "FIELD4": "15655625",
+      "FIELD5": "7.37",
+      "FIELD6": "7.48",
+      "FIELD7": "vide"
+   },
+   "500": {
+      "FIELD2": "dmca.com",
+      "FIELD3": "31248",
+      "FIELD4": "8604329",
+      "FIELD5": "7.39",
+      "FIELD6": "7.15",
+      "FIELD7": "vide"
+   },
+   "Rank": {
+      "FIELD2": "URL",
+      "FIELD3": "LinkingRootDomains",
+      "FIELD4": "ExternalLinks",
+      "FIELD5": "mozRank",
+      "FIELD6": "mozTrust",
+      "FIELD7": "Technologie"
+   }
+}

@@ -2,7 +2,7 @@
 module.exports = {
     //connexionMongo: function () {},
     //affichage pour un site défini
-    rechercheSite: function (MongoClient,host,urlSite) {
+    rechercheSite: function (MongoClient, host, urlSite) {
         MongoClient.connect(host, {
             useNewUrlParser: true
         }, function (error, db) {
@@ -24,9 +24,9 @@ module.exports = {
                             )
                 });
             });
+            db.close();
             return retour.substr(0, -1) + "}";
         });
-        db.close();
     },
     //affichage du rank et de l'url
     showRankUrl: function () {
