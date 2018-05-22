@@ -2,4 +2,8 @@ extends layout
 
 block content
   h1= title
-  p Welcome to #{title}
+  p Ceci est la page d'accueil du projet #{title}
+  p Voici les liens afin d'accéder à l'API :
+  li GET /api/site/{url} : recherche d'un site en particulier. Exemple : /api/site/www.facebook.com
+  li GET /api/categorie/{categorie} : recherche d'une liste de site comportant la caractéristique demandée. Exemple : /api/category/nginx
+  

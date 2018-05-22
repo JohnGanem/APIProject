@@ -4,7 +4,7 @@ var BDD = require('./connexionMongoDB');
 var MongoClient = require("mongodb").MongoClient;
 var host = "mongodb://localhost:27017";
 
-router.get('/category/:inputText', function (req, res) {
+router.get('/categorie/:inputText', function (req, res) {
     res.send('');
 });
 router.get('/site/:inputText', function (req, res, next) {
@@ -19,11 +19,8 @@ router.get('/site/:inputText', function (req, res, next) {
     }
 });
 
-router.get('/:inputText', function (req, res, next) {
-    res.send(req.params.inputText + " n'est pas une ressource de l'API !");
-});
-router.get('/', function (req, res) {
-    res.send('Get a random website');
+router.all('/*', function (req, res) {
+  res.render('index', { title: 'API SNIFF' });
 });
 
 module.exports = router;
