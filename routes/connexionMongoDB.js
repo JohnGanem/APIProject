@@ -119,5 +119,4 @@ module.exports = {
 //updateSite(site,'linux');
 //addTechnoSite(site,"linux");
 //deleteSite(site);
-
 }

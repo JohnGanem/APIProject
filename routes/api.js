@@ -23,5 +23,4 @@ router.get('/site/:inputText', function (req, res, next) {
 router.all('/*', function (req, res) {
   res.render('index', { title: 'API SNIFF' });
 });
-
 module.exports = router;
